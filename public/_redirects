@@ -1,0 +1,3 @@
+http://brokenbeach.org/*    https://brokenbeach.org/:splat    301!
+https://www.brokenbeach.org/*    https://brokenbeach.org/:splat    301!
+http://www.brokenbeach.org/*    https://brokenbeach.org/:splat    301!
