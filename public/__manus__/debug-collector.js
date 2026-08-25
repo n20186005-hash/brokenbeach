@@ -46,6 +46,11 @@
     scrollThrottleMs: 500,
   };
 
+  // 生产环境（__MANUS_HOST_DEV__ 非 true，含 undefined）时禁用日志上报：
+  // 避免向静态服务器发 POST 得到 405/404，也避免无谓请求与 console 报错。
+  var isManusDevHost =
+    typeof window.__MANUS_HOST_DEV__ === "boolean" && window.__MANUS_HOST_DEV__ === true;
+
   // ==========================================================================
   // Storage
   // ==========================================================================
@@ -714,6 +719,9 @@
   // ==========================================================================
 
   function reportLogs() {
+    // 生产环境不上报
+    if (!isManusDevHost) return Promise.resolve();
+
     var consoleLogs = store.consoleLogs.splice(0);
     var networkRequests = store.networkRequests.splice(0);
     var uiEvents = store.uiEvents.splice(0);
@@ -741,63 +749,76 @@
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(payload),
-    }).catch(function () {
-      // Put data back on failure (but respect limits)
-      store.consoleLogs = consoleLogs.concat(store.consoleLogs);
-      store.networkRequests = networkRequests.concat(store.networkRequests);
-      store.uiEvents = uiEvents.concat(store.uiEvents);
+    })
+      .then(function (res) {
+        // 非 2xx（如静态服务器的 405/404）静默丢弃：不报错、不重试、不写回数据，
+        // 避免每 2 秒重复请求与 console 报错。
+        if (!res.ok) {
+          return null;
+        }
+        return res;
+      })
+      .catch(function () {
+        // 网络错误（临时离线等）才把数据放回（respect limits）
+        store.consoleLogs = consoleLogs.concat(store.consoleLogs);
+        store.networkRequests = networkRequests.concat(store.networkRequests);
+        store.uiEvents = uiEvents.concat(store.uiEvents);
 
-      pruneBuffer(store.consoleLogs, CONFIG.bufferSize.console);
-      pruneBuffer(store.networkRequests, CONFIG.bufferSize.network);
-      pruneBuffer(store.uiEvents, CONFIG.bufferSize.ui);
-    });
+        pruneBuffer(store.consoleLogs, CONFIG.bufferSize.console);
+        pruneBuffer(store.networkRequests, CONFIG.bufferSize.network);
+        pruneBuffer(store.uiEvents, CONFIG.bufferSize.ui);
+      });
   }
 
-  // Periodic reporting
-  setInterval(reportLogs, CONFIG.reportInterval);
+  // Periodic reporting（仅开发宿主环境启动）
+  if (isManusDevHost) {
+    setInterval(reportLogs, CONFIG.reportInterval);
+  }
 
-  // Report on page unload
-  window.addEventListener("beforeunload", function () {
-    var consoleLogs = store.consoleLogs;
-    var networkRequests = store.networkRequests;
-    var uiEvents = store.uiEvents;
+  // Report on page unload（仅开发宿主环境启动）
+  if (isManusDevHost) {
+    window.addEventListener("beforeunload", function () {
+      var consoleLogs = store.consoleLogs;
+      var networkRequests = store.networkRequests;
+      var uiEvents = store.uiEvents;
 
-    if (
-      consoleLogs.length === 0 &&
-      networkRequests.length === 0 &&
-      uiEvents.length === 0
-    ) {
-      return;
-    }
-
-    var payload = {
-      timestamp: Date.now(),
-      consoleLogs: consoleLogs,
-      networkRequests: networkRequests,
-      // Mirror uiEvents to sessionEvents for sessionReplay.log
-      sessionEvents: uiEvents,
-      uiEvents: uiEvents,
-    };
-
-    if (navigator.sendBeacon) {
-      var payloadStr = JSON.stringify(payload);
-      // sendBeacon has ~64KB limit, truncate if too large
-      var MAX_BEACON_SIZE = 60000; // Leave some margin
-      if (payloadStr.length > MAX_BEACON_SIZE) {
-        // Prioritize: keep recent events, drop older logs
-        var truncatedPayload = {
-          timestamp: Date.now(),
-          consoleLogs: consoleLogs.slice(-50),
-          networkRequests: networkRequests.slice(-20),
-          sessionEvents: uiEvents.slice(-100),
-          uiEvents: uiEvents.slice(-100),
-          _truncated: true,
-        };
-        payloadStr = JSON.stringify(truncatedPayload);
+      if (
+        consoleLogs.length === 0 &&
+        networkRequests.length === 0 &&
+        uiEvents.length === 0
+      ) {
+        return;
       }
-      navigator.sendBeacon(CONFIG.reportEndpoint, payloadStr);
-    }
-  });
+
+      var payload = {
+        timestamp: Date.now(),
+        consoleLogs: consoleLogs,
+        networkRequests: networkRequests,
+        // Mirror uiEvents to sessionEvents for sessionReplay.log
+        sessionEvents: uiEvents,
+        uiEvents: uiEvents,
+      };
+
+      if (navigator.sendBeacon) {
+        var payloadStr = JSON.stringify(payload);
+        // sendBeacon has ~64KB limit, truncate if too large
+        var MAX_BEACON_SIZE = 60000; // Leave some margin
+        if (payloadStr.length > MAX_BEACON_SIZE) {
+          // Prioritize: keep recent events, drop older logs
+          var truncatedPayload = {
+            timestamp: Date.now(),
+            consoleLogs: consoleLogs.slice(-50),
+            networkRequests: networkRequests.slice(-20),
+            sessionEvents: uiEvents.slice(-100),
+            uiEvents: uiEvents.slice(-100),
+            _truncated: true,
+          };
+          payloadStr = JSON.stringify(truncatedPayload);
+        }
+        navigator.sendBeacon(CONFIG.reportEndpoint, payloadStr);
+      }
+    });
+  }
 
   // ==========================================================================
   // Initialization

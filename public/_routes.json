@@ -3,7 +3,6 @@
   "include": ["/*"],
   "exclude": [
     "/assets/*",
-    "/__manus__/*",
     "/favicon.svg",
     "/manus-storage/*",
     "/@vite/*",
