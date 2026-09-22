@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Local caches / secrets (Cloudflare)
+.wrangler/
+.dev.vars
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.log
+
+# Local debug / dev helper scripts (not part of the deploy)
+*.ps1
+index.js
+
+# Local source image assets (the served copies live in public/manus-storage)
+images/
