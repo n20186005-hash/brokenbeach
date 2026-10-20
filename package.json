@@ -1,0 +1,9 @@
+{
+ "name":"broken-beach-guide",
+ "private":true,
+ "type":"module",
+ "packageManager":"pnpm@10.11.1",
+ "engines":{"node":"^22.12.0 || ^24.0.0"},
+ "scripts":{"build":"node scripts/build.mjs","check":"node --check scripts/build.mjs && node --check worker.mjs && node --check source/client.js && node --check source/consent.js","test":"node scripts/behavior-test.mjs","deploy":"pnpm build && wrangler deploy"},
+ "devDependencies":{"wrangler":"4.124.0"}
+}

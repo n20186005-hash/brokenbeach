@@ -1,0 +1,534 @@
+{
+  "id": {
+    "nav": [
+      [
+        "Tentang",
+        "overview"
+      ],
+      [
+        "Bentang alam",
+        "landscape"
+      ],
+      [
+        "Kunjungan",
+        "visit"
+      ],
+      [
+        "Rute",
+        "route"
+      ],
+      [
+        "Sekitar",
+        "nearby"
+      ],
+      [
+        "FAQ",
+        "faq"
+      ]
+    ],
+    "eyebrow": "Pasih Uug · Nusa Penida · Bali",
+    "independent": "PANDUAN INDEPENDEN · NIRLABA",
+    "title": "Broken Beach\nNusa Penida",
+    "subtitle": "Lengkung pesisir dan teluk, bukan izin untuk turun atau masuk air.",
+    "intro": "Gunakan panduan ini untuk orientasi dan persiapan. Akses jalur, tebing dan layanan perlu dikonfirmasi pada hari kunjungan.",
+    "plan": "Rencanakan kunjungan",
+    "map": "Buka lokasi",
+    "facts": [
+      [
+        "NAMA LOKAL",
+        "Pasih Uug"
+      ],
+      [
+        "PIN PETA",
+        "-8.7327938, 115.4508319"
+      ],
+      [
+        "ALAMAT MAPS",
+        "7F82+R4, Sakti, Nusa Penida, Klungkung, Bali 80771"
+      ],
+      [
+        "SNAPSHOT MAPS",
+        "19 Oktober 2026 · 4,6 / 5 · 8.325 ulasan"
+      ]
+    ],
+    "sectionTag": "ORIENTASI",
+    "orientationTitle": "Sebuah teluk yang terbuka lewat batu.",
+    "orientationText": "Dinas Pariwisata Klungkung (25 April 2022) menggambarkan Pasih Uug sebagai cekungan pesisir dan bukaan batu yang tersambung ke laut. Angka diameter dan penjelasan umur pada artikel itu tidak kami jadikan ukuran atau usia pasti. Nama ini juga digunakan untuk Broken Beach.",
+    "noteTitle": "Alamat dan pintu masuk berbeda",
+    "noteText": "Maps pada 19 Oktober 2026 memakai Sakti. Berita Pemkab Klungkung 16 Februari 2026 menyebut Broken Beach di Desa Bunga Mekar. Kedua penamaan ini kami atribusikan terpisah; pin bukan audit batas desa atau titik gerbang yang bisa dilalui.",
+    "landscapeTag": "MEMBACA TEMPAT",
+    "landscapeTitle": "Tiga lapisan untuk memahami Pasih Uug.",
+    "layers": [
+      [
+        "01",
+        "Lengkung pesisir",
+        "Bukaan batu dan teluk dijelaskan pada sumber pariwisata. Bentuknya tidak menunjukkan jalur yang boleh dilalui."
+      ],
+      [
+        "02",
+        "Konteks batu kapur",
+        "Artikel Dinas Pariwisata 2022 mengaitkan bentuk cekungan dengan abrasi dan runtuhan batu kapur. Ini ringkasan sumber, bukan survei geologi baru."
+      ],
+      [
+        "03",
+        "Keadaan hari ini",
+        "Ikuti jalur yang dibuka serta arahan setempat; foto lama dan permukaan air yang tampak tenang tidak membuktikan akses aman."
+      ]
+    ],
+    "ethicsTitle": "Melihat dengan rasa hormat.",
+    "ethics": "Pasih Uug adalah lanskap rapuh, bukan panggung. Hindari melangkahi pembatas, menerbangkan drone tanpa izin, meninggalkan sampah, atau mengambil risiko demi sudut foto. Jika laut sedang besar, prioritaskan jarak dan keputusan untuk tidak mendekat.",
+    "storyTag": "NAMA, BATU & CERITA",
+    "storyTitle": "Yang diketahui, yang biasa disebut, dan yang tetap menjadi cerita.",
+    "storyLead": "Halaman ini membedakan penjelasan lanskap dari ingatan lisan. Pemisahan ini penting agar sebuah tempat dapat dihargai tanpa menjadikan cerita sebagai bukti geologi.",
+    "storyCards": [
+      [
+        "Sumber bentang alam",
+        "Dinas Pariwisata Klungkung menerbitkan gambaran Pasih Uug pada 2022; detail ukuran dan waktu pembentukannya tidak kami pastikan."
+      ],
+      [
+        "Nama lokal",
+        "Pasih Uug dan Broken Beach muncul berdampingan dalam sumber pemerintah yang ditautkan."
+      ],
+      [
+        "Legenda yang dipublikasikan",
+        "Laman Kecamatan Nusa Penida memuat cerita rakyat tentang terbentuknya Pasih Uug pada 14 Desember 2020. Bacalah sebagai legenda budaya, bukan sejarah kejadian atau bukti geologi."
+      ]
+    ],
+    "visitTag": "SEBELUM BERANGKAT",
+    "visitTitle": "Informasi yang membantu Anda mengatur ritme.",
+    "visitLead": "Kondisi operasional dapat berubah karena cuaca, perbaikan akses, atau ketentuan setempat. Gunakan informasi di bawah sebagai kerangka perencanaan, lalu konfirmasi di lokasi pada hari kunjungan.",
+    "visitCards": [
+      [
+        "Jam akses",
+        "Listing Maps yang diperiksa 19 Oktober 2026 tidak memberi jam yang dapat kami verifikasi. Jangan menyimpulkan buka 24 jam atau akses malam diperbolehkan."
+      ],
+      [
+        "Durasi saran",
+        "Saran perencanaan 45–60 menit untuk orientasi dari area yang diizinkan, bukan durasi resmi. Tambahkan waktu perjalanan dan konfirmasi akses."
+      ],
+      [
+        "Tiket dan biaya",
+        "Tarif terkini belum diverifikasi. Tanyakan apakah ada biaya kawasan, parkir atau layanan lain, apa yang dicakup, dan bukti pembayaran."
+      ],
+      [
+        "Kebutuhan akses",
+        "Maps 19 Oktober 2026 menandai tidak ada pintu masuk akses kursi roda. Ini catatan listing, bukan audit seluruh rute. Tanyakan kondisi jalur dan kebutuhan bantuan sebelum pergi."
+      ]
+    ],
+    "facilityTitle": "Fasilitas sekitar: rencanakan secukupnya.",
+    "facilityLead": "Anggap layanan di pesisir sebagai dukungan dasar, bukan jaminan. Kapasitas dan ketersediaan dapat bergeser menurut waktu, cuaca, serta pengaturan setempat.",
+    "facilities": [
+      [
+        "Toilet",
+        "Tanyakan lokasi, jam dan kondisi fasilitas; jangan menganggap tersedia di setiap jalur."
+      ],
+      [
+        "Parkir",
+        "Konfirmasikan titik, kapasitas dan biaya dengan petugas; pin peta bukan bukti tempat parkir atau gerbang."
+      ],
+      [
+        "Makanan dan air",
+        "Siapkan kebutuhan perjalanan sesuai aturan lokasi. Gerai dan menu yang beroperasi belum diverifikasi."
+      ],
+      [
+        "Menginap",
+        "Bandingkan lokasi penginapan dengan pelabuhan yang benar-benar dipakai dan rute hari itu."
+      ],
+      [
+        "Belanja dan pembayaran",
+        "Tanyakan metode pembayaran dan siapkan kebutuhan pribadi sebelum perjalanan; layanan terdekat tidak dijamin."
+      ],
+      [
+        "Bahan bakar dan daya",
+        "Periksa titik layanan melalui penyedia saat menyusun rute; jangan menganggap pengisian kendaraan tersedia di lokasi."
+      ]
+    ],
+    "routeTag": "CARA TIBA",
+    "routeTitle": "Datang lewat pulau, lalu lewat jalan pesisir.",
+    "routeLead": "Jika memulai dari Bali daratan, konfirmasikan penyeberangan ke Nusa Penida lalu perjalanan darat. Nama pelabuhan, jadwal, ongkos dan lama perjalanan harus diperiksa pada operator sesuai tanggal perjalanan.",
+    "journeyTitle": "Rantai perjalanan dalam empat tahap.",
+    "journeySteps": [
+      [
+        "01",
+        "Titik awal",
+        "Atur perjalanan darat ke pelabuhan yang dikonfirmasi operator."
+      ],
+      [
+        "02",
+        "Penyeberangan",
+        "Periksa jadwal, kondisi pelayaran, bagasi dan pelabuhan tiba dengan operator."
+      ],
+      [
+        "03",
+        "Tiba di pulau",
+        "Konfirmasikan kendaraan, titik temu dan rencana kembali sebelum melanjutkan."
+      ],
+      [
+        "04",
+        "Akses akhir",
+        "Gunakan peta sebagai orientasi lalu ikuti penunjuk dan pembatas yang berlaku."
+      ]
+    ],
+    "routes": [
+      [
+        "Dari bandara",
+        "Jika datang melalui DPS, periksa sambungan darat dan kapal secara terpisah; tidak ada durasi sambungan yang dijamin."
+      ],
+      [
+        "Kapal dan kendaraan",
+        "Periksa layanan yang benar-benar berjalan pada tanggal Anda, termasuk kondisi cuaca dan syarat penumpang."
+      ],
+      [
+        "Transfer yang dipesan",
+        "Sepakati titik jemput, ongkos, tujuan dan perjalanan kembali dengan penyedia."
+      ],
+      [
+        "Angkutan umum",
+        "Jaringan dan jadwal langsung ke tempat ini belum diverifikasi. Tanyakan operator atau otoritas transportasi sebelum mengandalkan sambungan."
+      ]
+    ],
+    "mapTitle": "Peta lokasi",
+    "mapText": "Gunakan pin untuk orientasi lokasi, bukan titik masuk atau rute terverifikasi. Periksa penunjuk dan pembatas di lapangan.",
+    "nearbyTag": "DI SEKITAR",
+    "nearbyTitle": "Susun hari yang tenang, bukan daftar yang dipaksakan.",
+    "nearby": [
+      [
+        "Angel’s Billabong",
+        "Formasi kolam pesisir yang berbeda dari teluk dan lengkung Broken Beach. Pasang surut rendah atau prakiraan model tidak memberi izin masuk air; akses dan ketentuan harus dicek terpisah."
+      ],
+      [
+        "Kelingking Beach",
+        "Calon tujuan lain di Nusa Penida. Periksa rute, jam dan aksesnya sendiri; informasi Broken Beach tidak berlaku otomatis di sana."
+      ],
+      [
+        "Crystal Bay",
+        "Disebut dalam berita kunjungan pemerintah 2026. Ini calon tujuan terpisah, bukan jaminan akses atau aktivitas air sekarang."
+      ]
+    ],
+    "foodTitle": "Untuk makan di sekitar jalur.",
+    "foodText": "Periksa makanan, air minum, metode pembayaran dan kebutuhan pribadi saat merencanakan perjalanan. Tidak ada daftar usaha atau menu terkini yang diverifikasi di sini.",
+    "faqTag": "PERTANYAAN YANG SERING DITANYAKAN",
+    "faqTitle": "Jawaban singkat sebelum Anda melangkah.",
+    "faqs": [
+      [
+        "Di mana Broken Beach berada?",
+        "Maps 19 Oktober 2026 mencantumkan 7F82+R4, Sakti, Nusa Penida, Klungkung, Bali 80771, pin -8.7327938, 115.4508319. Berita Pemkab 16 Februari 2026 memakai Desa Bunga Mekar. Penamaan sumber ini tidak kami gabungkan menjadi audit batas atau pintu masuk."
+      ],
+      [
+        "Apa jam bukanya?",
+        "Listing Maps yang diperiksa 19 Oktober 2026 tidak memberi jam yang dapat kami verifikasi. Jangan menyimpulkan buka 24 jam atau akses malam diperbolehkan."
+      ],
+      [
+        "Berapa harga masuknya?",
+        "Tarif terkini belum diverifikasi. Tanyakan apakah ada biaya kawasan, parkir atau layanan lain, apa yang dicakup, dan bukti pembayaran."
+      ],
+      [
+        "Bisa berenang atau turun ke teluk?",
+        "Jangan memperlakukan teluk sebagai tempat berenang atau mencari jalan turun dari foto lama. Gunakan hanya jalur yang diizinkan dan konfirmasikan pembatas setempat."
+      ],
+      [
+        "Apakah sama dengan Angel’s Billabong?",
+        "Formasi kolam pesisir yang berbeda dari teluk dan lengkung Broken Beach. Pasang surut rendah atau prakiraan model tidak memberi izin masuk air; akses dan ketentuan harus dicek terpisah."
+      ],
+      [
+        "Apakah jalurnya aksesibel?",
+        "Maps 19 Oktober 2026 menandai tidak ada pintu masuk akses kursi roda. Ini catatan listing, bukan audit seluruh rute. Tanyakan kondisi jalur dan kebutuhan bantuan sebelum pergi."
+      ],
+      [
+        "Bagaimana fasilitas dan parkir?",
+        "Ketersediaan, kapasitas dan biaya belum diverifikasi. Tanyakan petugas mengenai kebutuhan Anda; jangan menganggap pin menunjukkan gerbang, parkir atau jalur landai."
+      ],
+      [
+        "Berapa lama kunjungannya?",
+        "Saran perencanaan 45–60 menit untuk orientasi dari area yang diizinkan, bukan durasi resmi. Tambahkan waktu perjalanan dan konfirmasi akses."
+      ],
+      [
+        "Bolehkah berjalan di lengkung batu atau memakai drone?",
+        "Tidak ada izin demikian yang diverifikasi dalam panduan ini. Foto orang di suatu titik bukan izin akses. Ikuti ketentuan setempat dan tanyakan petugas."
+      ],
+      [
+        "Apakah data cuaca dan muka laut menunjukkan aman masuk air?",
+        "Tidak. Data model regional bukan pengukuran tepi tebing, izin masuk air, atau jaminan keselamatan. Ikuti penutupan dan arahan setempat."
+      ]
+    ],
+    "sourcesTag": "LANJUTKAN PENELUSURAN",
+    "sourcesTitle": "Sumber publik untuk verifikasi lanjutan.",
+    "footerLine": "Panduan pengunjung independen yang tidak berafiliasi dengan pemerintah atau pengelola resmi mana pun.",
+    "credits": "Sumber diberi tanggal dan batas cakupan di bagian sumber. Situs ini bukan pengelola dan tidak menjual tiket.",
+    "photo": "Foto referensi 2017; kondisi dan akses kini dapat berbeda.",
+    "legal": [
+      "Kebijakan Privasi",
+      "Ketentuan Layanan",
+      "Pengaturan Cookie"
+    ],
+    "year": "© 2026 Broken Beach Guide",
+    "documentTitle": "Broken Beach (Pasih Uug), Nusa Penida: Lokasi & Akses",
+    "metaDescription": "Panduan independen Broken Beach di Nusa Penida, Bali: pin peta, alamat Sakti, informasi akses dan biaya yang perlu dikonfirmasi, serta perbedaannya dari Angel’s Billabong."
+  },
+  "en": {
+    "nav": [
+      [
+        "Overview",
+        "overview"
+      ],
+      [
+        "Landscape",
+        "landscape"
+      ],
+      [
+        "Visit",
+        "visit"
+      ],
+      [
+        "Getting here",
+        "route"
+      ],
+      [
+        "Nearby",
+        "nearby"
+      ],
+      [
+        "FAQ",
+        "faq"
+      ]
+    ],
+    "eyebrow": "Pasih Uug · Nusa Penida · Bali",
+    "independent": "INDEPENDENT · NON-PROFIT GUIDE",
+    "title": "Broken Beach\nNusa Penida",
+    "subtitle": "A coastal arch and cove, not permission to descend or enter the water.",
+    "intro": "Use this guide for orientation and preparation. Check current paths, cliff access and services on your visit day.",
+    "plan": "Plan your visit",
+    "map": "Open location",
+    "facts": [
+      [
+        "LOCAL NAME",
+        "Pasih Uug"
+      ],
+      [
+        "MAP PIN",
+        "-8.7327938, 115.4508319"
+      ],
+      [
+        "MAPS ADDRESS",
+        "7F82+R4, Sakti, Nusa Penida, Klungkung, Bali 80771"
+      ],
+      [
+        "MAPS SNAPSHOT",
+        "19 October 2026 · 4.6 / 5 · 8,325 reviews"
+      ]
+    ],
+    "sectionTag": "ORIENTATION",
+    "orientationTitle": "A cove opened through stone.",
+    "orientationText": "Klungkung Tourism (25 April 2022) describes Pasih Uug as a coastal hollow with a rock opening connected to the sea. We do not treat the article’s diameter and age descriptions as precise measurements. Pasih Uug is also used for Broken Beach.",
+    "noteTitle": "An address is not an entrance",
+    "noteText": "Maps on 19 October 2026 uses Sakti. A 16 February 2026 Klungkung Regency report places Broken Beach in Bunga Mekar village. These are separately attributed descriptions; the pin is not a village-boundary audit or a confirmed usable entrance.",
+    "landscapeTag": "READING THE PLACE",
+    "landscapeTitle": "Three layers for understanding Pasih Uug.",
+    "layers": [
+      [
+        "01",
+        "Coastal arch",
+        "The tourism sources describe a rock opening and cove. The formation does not establish a permitted walking route."
+      ],
+      [
+        "02",
+        "Limestone context",
+        "The 2022 tourism article associates the hollow with erosion and limestone collapse. This is a source summary, not a new geological survey."
+      ],
+      [
+        "03",
+        "Today’s conditions",
+        "Follow open paths and local directions; an old photograph or calm-looking surface does not establish safe access."
+      ]
+    ],
+    "ethicsTitle": "Look with respect.",
+    "ethics": "Pasih Uug is a fragile landscape, not a stage. Do not step past barriers, fly a drone without permission, leave litter, or take risks for a photograph. When the sea is high, choose distance—and choose not to approach.",
+    "storyTag": "NAME, STONE & STORY",
+    "storyTitle": "What is known, what is commonly said, and what remains a story.",
+    "storyLead": "This page separates landscape explanation from oral memory. That distinction helps visitors value a place without treating a story as geological evidence.",
+    "storyCards": [
+      [
+        "Landscape source",
+        "Klungkung Tourism published its Pasih Uug overview in 2022; exact dimensions and formation dates are not established here."
+      ],
+      [
+        "Local name",
+        "Pasih Uug and Broken Beach appear together in the linked government sources."
+      ],
+      [
+        "A published legend",
+        "Nusa Penida District published a formation folktale on 14 December 2020. Read it as a cultural legend, not an event history or geological evidence."
+      ]
+    ],
+    "visitTag": "BEFORE YOU GO",
+    "visitTitle": "Information to help you set the pace.",
+    "visitLead": "Operating conditions can change with weather, access works, or local rules. Use the notes below to shape a plan, then confirm on site on the day of your visit.",
+    "visitCards": [
+      [
+        "Access hours",
+        "The Maps listing checked on 19 October 2026 supplied no hours we could verify. Do not infer 24-hour opening or permission for night access."
+      ],
+      [
+        "Suggested duration",
+        "Allow 45–60 minutes as a planning suggestion for orientation from permitted areas, not an official duration. Add travel time and check access."
+      ],
+      [
+        "Tickets and charges",
+        "Current charges are unverified. Ask whether area access, parking or other services are charged, what is included and what receipt is provided."
+      ],
+      [
+        "Access needs",
+        "Maps on 19 October 2026 marked no wheelchair-accessible entrance. This is a listing field, not an audit of every route. Ask about paths and assistance needs before travelling."
+      ]
+    ],
+    "facilityTitle": "Nearby facilities: plan with care.",
+    "facilityLead": "Treat services along the coast as basic support, not a guarantee. Capacity and availability can shift with time, weather, and local arrangements.",
+    "facilities": [
+      [
+        "Toilet",
+        "Ask about location, hours and condition; do not assume facilities exist along every path."
+      ],
+      [
+        "Parking",
+        "Confirm location, capacity and charges with staff; the map pin is not evidence of parking or an entrance."
+      ],
+      [
+        "Food and water",
+        "Prepare journey essentials subject to venue rules. Operating outlets and menus have not been verified."
+      ],
+      [
+        "Stays",
+        "Compare accommodation locations with the harbour actually used and the day’s route."
+      ],
+      [
+        "Supplies and payment",
+        "Ask about payment methods and pack personal essentials before travelling; nearby services are not guaranteed."
+      ],
+      [
+        "Fuel and power",
+        "Check service points with providers when planning the route; do not assume vehicle charging at the site."
+      ]
+    ],
+    "routeTag": "GETTING HERE",
+    "routeTitle": "Arrive by island, then by coastal road.",
+    "routeLead": "If starting on mainland Bali, confirm a crossing to Nusa Penida and an onward road journey. Check harbour names, schedules, fares and travel duration with operators for your date.",
+    "journeyTitle": "The journey chain in four stages.",
+    "journeySteps": [
+      [
+        "01",
+        "Starting point",
+        "Arrange ground travel to the harbour confirmed by the operator."
+      ],
+      [
+        "02",
+        "Crossing",
+        "Check sailing status, schedule, baggage and arrival harbour with the operator."
+      ],
+      [
+        "03",
+        "Island arrival",
+        "Confirm transport, meeting point and the return plan before continuing."
+      ],
+      [
+        "04",
+        "Final approach",
+        "Use the map for orientation, then follow current signs and access restrictions."
+      ]
+    ],
+    "routes": [
+      [
+        "From the airport",
+        "If arriving through DPS, check road and sea connections separately; no connection duration is guaranteed."
+      ],
+      [
+        "Boat and vehicle",
+        "Check services actually operating on your date, including weather and passenger conditions."
+      ],
+      [
+        "Arranged transfer",
+        "Agree pickup, fare, destination and return arrangements with the provider."
+      ],
+      [
+        "Public transport",
+        "A direct network and timetable to this place have not been verified. Ask an operator or transport authority before relying on a connection."
+      ]
+    ],
+    "mapTitle": "Location map",
+    "mapText": "Use the pin for location orientation, not as a verified entrance or route. Check current signs and barriers on site.",
+    "nearbyTag": "AROUND THE COAST",
+    "nearbyTitle": "Build a quiet day—not a forced checklist.",
+    "nearby": [
+      [
+        "Angel’s Billabong",
+        "A coastal-pool formation separate from Broken Beach’s cove and arch. Low tide or a model forecast does not grant water-entry permission; check access and rules separately."
+      ],
+      [
+        "Kelingking Beach",
+        "Another Nusa Penida itinerary candidate. Check its own route, hours and access; Broken Beach information does not automatically apply."
+      ],
+      [
+        "Crystal Bay",
+        "Named in the 2026 government-visit report. It is a separate itinerary candidate, not a guarantee of current access or water activities."
+      ]
+    ],
+    "foodTitle": "For food along the route.",
+    "foodText": "Check food, water, payment methods and personal essentials when planning the journey. No current business directory or menu has been verified here.",
+    "faqTag": "FREQUENTLY ASKED QUESTIONS",
+    "faqTitle": "Short answers before you step forward.",
+    "faqs": [
+      [
+        "Where is Broken Beach?",
+        "Maps on 19 October 2026 lists 7F82+R4, Sakti, Nusa Penida, Klungkung, Bali 80771, pin -8.7327938, 115.4508319. A 16 February 2026 regency report uses Bunga Mekar village. These descriptions are not combined into a boundary or entrance audit."
+      ],
+      [
+        "What are the opening hours?",
+        "The Maps listing checked on 19 October 2026 supplied no hours we could verify. Do not infer 24-hour opening or permission for night access."
+      ],
+      [
+        "What is the admission price?",
+        "Current charges are unverified. Ask whether area access, parking or other services are charged, what is included and what receipt is provided."
+      ],
+      [
+        "Can visitors swim or descend into the cove?",
+        "Do not treat the cove as a swimming place or look for a descent based on old photographs. Use only permitted paths and check local restrictions."
+      ],
+      [
+        "Is it the same as Angel’s Billabong?",
+        "A coastal-pool formation separate from Broken Beach’s cove and arch. Low tide or a model forecast does not grant water-entry permission; check access and rules separately."
+      ],
+      [
+        "Is the route accessible?",
+        "Maps on 19 October 2026 marked no wheelchair-accessible entrance. This is a listing field, not an audit of every route. Ask about paths and assistance needs before travelling."
+      ],
+      [
+        "What about facilities and parking?",
+        "Availability, capacity and fees are unverified. Ask staff about your needs; do not assume the pin marks an entrance, parking or a level path."
+      ],
+      [
+        "How long should I allow?",
+        "Allow 45–60 minutes as a planning suggestion for orientation from permitted areas, not an official duration. Add travel time and check access."
+      ],
+      [
+        "Can visitors walk on the arch or use a drone?",
+        "No such permission has been verified in this guide. A photograph of someone in a location is not access permission. Follow local rules and ask staff."
+      ],
+      [
+        "Do weather and sea-level data show that water entry is safe?",
+        "No. Regional model data are not cliffside measurements, water-entry permission or a safety guarantee. Follow closures and local directions."
+      ]
+    ],
+    "sourcesTag": "KEEP EXPLORING",
+    "sourcesTitle": "Public sources for further verification.",
+    "footerLine": "An independent visitor guide with no affiliation to any government body or official operator.",
+    "credits": "Sources are dated and scoped in the source section. This site is not the operator and does not sell tickets.",
+    "photo": "2017 reference photograph; current conditions and access may differ.",
+    "legal": [
+      "Privacy policy",
+      "Terms of service",
+      "Cookie settings"
+    ],
+    "year": "© 2026 Broken Beach Guide",
+    "documentTitle": "Broken Beach (Pasih Uug), Nusa Penida: Location & Access",
+    "metaDescription": "Independent Broken Beach guide in Nusa Penida, Bali: map pin, Sakti address, access and fees to confirm, and the distinction from Angel’s Billabong."
+  }
+}

@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://brokenbeach.org/sitemap.xml

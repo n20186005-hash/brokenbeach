@@ -1,0 +1,16 @@
+{
+  "name": "Broken Beach (Pasih Uug) — Nusa Penida Visitor Guide",
+  "short_name": "Broken Beach",
+  "description": "Visitor guide to Broken Beach (Pasih Uug), the natural arch cove in Nusa Penida, Bali, Indonesia.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0b2729",
+  "theme_color": "#0b2729",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-192-maskable.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
