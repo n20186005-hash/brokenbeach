@@ -1,9 +1,7 @@
 {
-  "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "brokenbeach",
-  "compatibility_date": "2026-08-15",
-  "assets": {
-    "directory": "public",
-    "not_found_handling": "single-page-application"
-  }
+ "$schema":"node_modules/wrangler/config-schema.json",
+ "name":"brokenbeach",
+ "main":"worker.mjs",
+ "compatibility_date":"2026-08-15",
+ "assets":{"directory":"public","binding":"ASSETS","not_found_handling":"404-page","run_worker_first":true}
 }

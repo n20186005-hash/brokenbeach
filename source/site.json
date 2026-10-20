@@ -1,0 +1,39 @@
+{
+  "origin": "https://brokenbeach.org",
+  "name": "Broken Beach Guide",
+  "maps": "https://maps.app.goo.gl/5mK4b222DzjCFH9A9",
+  "latitude": -8.7327938,
+  "longitude": 115.4508319,
+  "address": "7F82+R4, Sakti, Nusa Penida, Klungkung, Bali 80771, Indonesia",
+  "checked": "2026-10-19",
+  "photo": {
+    "source": "https://commons.wikimedia.org/wiki/File:Broken_Beach.jpg",
+    "licence": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "author": "Aaron Rentfrew",
+    "date": "2017-07-30",
+    "width": 1920,
+    "height": 1280
+  },
+  "sources": [
+    [
+      "Google Maps · 19 Oct 2026",
+      "https://maps.app.goo.gl/5mK4b222DzjCFH9A9"
+    ],
+    [
+      "Klungkung Tourism · 25 Apr 2022",
+      "https://dispar.klungkungkab.go.id/broken-beach/"
+    ],
+    [
+      "Klungkung Regency · 16 Feb 2026",
+      "https://protokol.klungkungkab.go.id/wamendagri-bima-arya-kunjungi-nusa-penida-dorong-percepatan-infrastruktur-dan-konsep-green-island-nusa-penida/"
+    ],
+    [
+      "Indonesia.travel · Broken Beach / Angel’s Billabong",
+      "https://www.indonesia.travel/id/id/destination/bali-nusa-tenggara/bali/kelingking-beach-a-marvelous-wonder-in-the-southwest-of-nusa-penida"
+    ],
+    [
+      "Nusa Penida District · legend, 14 Dec 2020",
+      "https://nusapenida.klungkungkab.go.id/cerita-menarik-terbentuknya-pasih-uug-broken-beach-legend/"
+    ]
+  ]
+}

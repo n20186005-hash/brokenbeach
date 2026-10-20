@@ -16,3 +16,8 @@ index.js
 
 # Local source image assets (the served copies live in public/manus-storage)
 images/
+
+# Private local configuration
+.project-config.json
+.env
+.env.*
