@@ -8,7 +8,9 @@ export default {async fetch(request,env,ctx){
   if(!['GET','HEAD'].includes(request.method))return new Response(null,{status:405,headers:{Allow:'GET, HEAD'}});
   const response=await model(url.pathname==='/api/tide',ctx);return request.method==='HEAD'?new Response(null,{status:response.status,headers:response.headers}):response;
  }
- const response=await env.ASSETS.fetch(request);if(response.status===404){const headers=new Headers(response.headers);headers.set('X-Robots-Tag','noindex, follow');return new Response(response.body,{status:404,headers});}return response;
+ const notFoundPage=['/404','/404/','/404.html'].includes(url.pathname);
+ const assetRequest=notFoundPage?new Request(new URL('/__not_found__',url),request):request;
+ const response=await env.ASSETS.fetch(assetRequest);if(response.status===404||notFoundPage){const headers=new Headers(response.headers);headers.set('X-Robots-Tag','noindex, follow');return new Response(request.method==='HEAD'?null:response.body,{status:404,headers});}return response;
 }};
 const iso=value=>typeof value==='string'&&/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}(?::\d{2})?$/.test(value);
 function sanitize(data,tide){

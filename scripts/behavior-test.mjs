@@ -1,28 +1,9 @@
 import assert from 'node:assert/strict';
-import {readFileSync} from 'node:fs';
-import vm from 'node:vm';
 import worker from '../worker.mjs';
 let assetCalls=0;const env={ASSETS:{fetch:async()=>{assetCalls++;return new Response('missing',{status:404});}}};
 for(const u of ['http://brokenbeach.org/privacy-policy/?q=1','https://www.brokenbeach.org/privacy-policy/?q=1']){const r=await worker.fetch(new Request(u),env);assert.equal(r.status,301);assert.equal(r.headers.get('location'),'https://brokenbeach.org/privacy-policy/?q=1');}
 let r=await worker.fetch(new Request('https://brokenbeach.org/cookie-settings?q=1'),env);assert.equal(r.headers.get('location'),'https://brokenbeach.org/cookie-settings/?q=1');r=await worker.fetch(new Request('https://brokenbeach.org/missing'),env);assert.equal(r.status,404);assert.equal(await r.text(),'missing');assert.match(r.headers.get('X-Robots-Tag'),/noindex/);assert.equal(assetCalls,1);
-const code=readFileSync('source/consent.js','utf8');
-let raw=JSON.stringify({analytics:true}), writable=true, session={};
-const storage={getItem:()=>raw,setItem:(k,v)=>{if(!writable)throw Error('blocked');if(k==='brokenbeach-cookie-preferences')raw=v;},removeItem:()=>{if(!writable)throw Error('blocked');}};
-const sessionStorage={getItem:k=>session[k]||null,setItem:(k,v)=>{session[k]=v},removeItem:k=>{delete session[k]}};
-function page(name=''){const scripts=[],handlers={},status={textContent:''};const window={name};const document={documentElement:{lang:"en"},getElementById:id=>id==='cookie-status'?status:['accept-analytics','decline-analytics'].includes(id)?{addEventListener:(_event,fn)=>handlers[id]=fn}:scripts.find(s=>s.id===id),createElement:()=>({}),head:{appendChild:s=>scripts.push(s)}};vm.runInNewContext(code,{window,document,localStorage:storage,sessionStorage});return {window,scripts,handlers,status};}
-
-let p=page();assert.equal(p.scripts.length,1);writable=false;assert.equal(p.window.brokenbeachConsent.save(false),false);assert.equal(p.window['ga-disable-G-HXM22WWPKP'],true);
-let next=page(p.window.name);assert.equal(next.scripts.length,0);assert.equal(next.window['ga-disable-G-HXM22WWPKP'],true);assert.equal(JSON.parse(raw).analytics,true);
-// Even if session/name cannot carry the tombstone, blocked writes refuse a stale grant.
-session={};next=page();assert.equal(next.scripts.length,0);assert.equal(next.window.brokenbeachConsent.save(true),false);assert.equal(next.scripts.length,1);assert.equal(page().scripts.length,0);
-writable=true;const chosen=page();chosen.window.brokenbeachConsent.save(false);assert.equal(page(chosen.window.name).scripts.length,0);chosen.window.brokenbeachConsent.save(true);assert.equal(page(chosen.window.name).scripts.length,1);
-storage.getItem=()=>{throw Error('blocked read')};assert.equal(page().scripts.length,0);
-console.log('PASS Worker 301/query/ASSETS404; consent immediate refusal, failed writes and stale grants across pages.');
-// Refusal must survive same-tab navigation even when session storage is unavailable.
-raw=JSON.stringify({analytics:true});writable=true;storage.getItem=()=>raw;
-sessionStorage.getItem=()=>{throw Error('session blocked')};sessionStorage.setItem=()=>{throw Error('session blocked')};sessionStorage.removeItem=()=>{throw Error('session blocked')};
-p=page();assert.equal(p.scripts.length,1);writable=false;p.window.brokenbeachConsent.save(false);writable=true;next=page(p.window.name);assert.equal(next.scripts.length,0);assert.equal(next.window['ga-disable-G-HXM22WWPKP'],true);
-console.log('PASS session-storage failure: window-name veto prevents stale-grant recovery in same tab.');
+await import('./consent-test.mjs');
 let upstreamCalls=0,cacheWrites=0;
 globalThis.caches={default:{match:async()=>undefined,put:async()=>{cacheWrites++}}};
 globalThis.fetch=async()=>{upstreamCalls++;return new Response('unavailable',{status:503})};
@@ -34,6 +15,12 @@ r=await worker.fetch(new Request('https://brokenbeach.org/api/weather?lat=90&lon
 forecast.current.temperature_2m='<script>';r=await worker.fetch(new Request('https://brokenbeach.org/api/weather'),env,{});assert.equal(r.status,503);
 console.log('PASS weather read-only endpoint: upstream error/no retry/no error cache, method restriction, numeric whitelist and malformed response rejection.');
 
-writable=false;p=page();p.handlers['decline-analytics']();assert.match(p.status.textContent,/refused now/);assert.match(p.status.textContent,/could not be saved/);assert.equal(p.window['ga-disable-G-HXM22WWPKP'],true);console.log('PASS refusal storage error explains failure and does not claim persistence.');
-
 const marine={hourly:{time:['2026-10-20T10:00'],sea_level_height_msl:[0.15]},unexpected:'do not forward'};globalThis.fetch=async url=>{assert.equal(url.hostname,'marine-api.open-meteo.com');return Response.json(marine)};r=await worker.fetch(new Request('https://brokenbeach.org/api/tide'),env,{});assert.equal(r.status,200);const sea=await r.json();assert.equal(sea.series[0].level,0.15);assert.equal(sea.unexpected,undefined);marine.hourly.sea_level_height_msl=[null];r=await worker.fetch(new Request('https://brokenbeach.org/api/tide'),env,{});assert.equal(r.status,503);console.log('PASS marine model whitelist and missing data rejection; fixed place coordinates.');
+// Unavailable model data must retain its real status and empty HEAD response.
+globalThis.fetch=async()=>new Response('unavailable',{status:503});
+for(const route of['/api/weather','/api/tide'])for(const method of['GET','HEAD']){
+ const response=await worker.fetch(new Request('https://brokenbeach.org'+route,{method}),env,{});
+ assert.equal(response.status,503);assert.equal(response.headers.get('cache-control'),'no-store');
+ if(method==='HEAD')assert.equal(await response.text(),'');else assert.deepEqual(await response.json(),{error:'Model data unavailable'});
+}
+console.log('PASS weather/tide unavailable GET/HEAD: actual503, no-store, generic JSON and empty HEAD body.');
