@@ -1,13 +1,13 @@
 import site from './source/site.json' with {type:'json'};
-const pages=new Set(['/','/id/','/privacy-policy/','/terms-of-service/','/cookie-settings/','/id/privacy-policy/','/id/terms-of-service/','/id/cookie-settings/']);
 export default {async fetch(request,env,ctx){
  const url=new URL(request.url);
  if(['brokenbeach.org','www.brokenbeach.org'].includes(url.hostname)&&(url.protocol!=='https:'||url.hostname!=='brokenbeach.org')){url.protocol='https:';url.hostname='brokenbeach.org';url.port='';return Response.redirect(url.toString(),301);}
- if(url.pathname!=='/'&&pages.has(url.pathname+'/')){url.pathname+='/';return Response.redirect(url.toString(),301);}
  if(url.pathname==='/api/weather'||url.pathname==='/api/tide'){
   if(!['GET','HEAD'].includes(request.method))return new Response(null,{status:405,headers:{Allow:'GET, HEAD'}});
   const response=await model(url.pathname==='/api/tide',ctx);return request.method==='HEAD'?new Response(null,{status:response.status,headers:response.headers}):response;
  }
+ const isAssetLike=/\.[a-z0-9]+$/i.test(url.pathname)||url.pathname==='/404.html';
+ if(url.pathname!=='/'&&!url.pathname.endsWith('/')&&!isAssetLike){url.pathname+='/';return Response.redirect(url.toString(),301);}
  const notFoundPage=['/404','/404/','/404.html'].includes(url.pathname);
  const assetRequest=notFoundPage?new Request(new URL('/__not_found__',url),request):request;
  const response=await env.ASSETS.fetch(assetRequest);if(response.status===404||notFoundPage){const headers=new Headers(response.headers);headers.set('X-Robots-Tag','noindex, follow');return new Response(request.method==='HEAD'?null:response.body,{status:404,headers});}return response;

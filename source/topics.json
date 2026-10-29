@@ -1,0 +1,1307 @@
+{
+  "GROUPS": {
+    "visit": {"en": "Visit guide", "id": "Panduan kunjungan"},
+    "transport": {"en": "Getting here", "id": "Cara tiba"},
+    "nearby": {"en": "Nearby", "id": "Sekitar"},
+    "food": {"en": "Food & drink", "id": "Makan & minum"},
+    "itinerary": {"en": "Itineraries", "id": "Rencana perjalanan"}
+  },
+  "TOPICS": [
+    {
+      "slug": "broken-beach-name",
+      "group": "visit",
+      "en": {
+        "documentTitle": "Broken Beach (Pasih Uug), Nusa Penida: Name, Meaning & Landscape",
+        "metaDescription": "Why Broken Beach is also called Pasih Uug, what the local name means, and how the coastal arch and cove formed in Nusa Penida, Bali.",
+        "title": "Broken Beach and Pasih Uug: one place, two names",
+        "lead": "Broken Beach and Pasih Uug refer to the same coastal feature on Nusa Penida. Understanding both names helps you read maps, local signs and travel posts without confusion.",
+        "blocks": [
+          {"heading": "What the names mean", "paragraphs": ["Broken Beach is the English label most visitors and mapping services use for the natural arch on Nusa Penida's west coast. Pasih Uug is the local Balinese name for the same spot; Pasih means sea or beach and Uug means broken or damaged, which matches the open arch in the rock."]},
+          {"heading": "Why two names appear together", "paragraphs": ["Government tourism pages for Klungkung and Nusa Penida publish Pasih Uug and Broken Beach side by side, and a 2020 district post retells a local formation legend. Use whichever name your map shows; they point to the same coastal opening."]},
+          {"heading": "A note on spelling and labels", "paragraphs": ["You may see Pasih Uug, Pasih Uug Beach or Pantai Pasih Uug. Map labels and village descriptions differ, and the pin sits in Sakti while some regency reports mention Bunga Mekar. Treat the pin as a location reference, not a verified entrance or village boundary."]}
+        ],
+        "faqs": [
+          ["Is Broken Beach the same as Pasih Uug?", "Yes. They describe the same natural coastal arch and cove on Nusa Penida. Pasih Uug is the local name, Broken Beach the common English label."],
+          ["What does Pasih Uug mean?", "In local usage Pasih Uug is read as broken sea or broken beach, describing the rock opening carved to the sea. It is a place name, not an official safety rating."],
+          ["Is it the same as Angel's Billabong?", "No. Angel's Billabong is a separate coastal pool formation nearby. Its access and water rules are different and must be checked on their own."]
+        ],
+        "related": ["coastal-photography", "angels-billabong", "swimming-sea-safety"]
+      },
+      "id": {
+        "documentTitle": "Broken Beach (Pasih Uug), Nusa Penida: Nama, Arti & Bentang Alam",
+        "metaDescription": "Mengapa Broken Beach juga disebut Pasih Uug, arti nama lokalnya, dan bagaimana lengkung pesisir serta teluk terbentuk di Nusa Penida, Bali.",
+        "title": "Broken Beach dan Pasih Uug: satu tempat, dua nama",
+        "lead": "Broken Beach dan Pasih Uug menunjuk pada fitur pesisir yang sama di Nusa Penida. Memahami kedua nama membantu membaca peta, tanda lokal, dan postingan tanpa kebingungan.",
+        "blocks": [
+          {"heading": "Arti nama", "paragraphs": ["Broken Beach adalah label bahasa Inggris yang dipakai sebagian besar pengunjung dan layanan pemetaan untuk lengkung alami di pesisir barat Nusa Penida. Pasih Uug adalah nama lokal Balinya untuk tempat yang sama; Pasih berarti laut atau pantai dan Uug berarti rusak atau patah, sesuai lengkung terbuka di batu."]},
+          {"heading": "Mengapa dua nama muncul bersama", "paragraphs": ["Laman pariwisata pemerintah Klungkung dan Nusa Penida mempublikasikan Pasih Uug dan Broken Beach berdampingan, dan pos kecamatan 2020 menuturkan legenda pembentukan lokal. Pakai nama yang ada di peta Anda; keduanya menunjuk bukaan pesisir yang sama."]}
+        ],
+        "faqs": [
+          ["Apakah Broken Beach sama dengan Pasih Uug?", "Ya. Keduanya menggambarkan lengkung pesisir dan teluk alami yang sama di Nusa Penida. Pasih Uug adalah nama lokal, Broken Beach label bahasa Inggris yang umum."],
+          ["Apa arti Pasih Uug?", "Dalam penggunaan lokal, Pasih Uug dibaca sebagai laut rusak atau pantai rusak, menggambarkan bukaan batu yang terukir ke laut. Ini nama tempat, bukan peringkat keselamatan resmi."],
+          ["Apakah sama dengan Angel's Billabong?", "Tidak. Angel's Billabong adalah formasi kolam pesisir terpisah di dekatnya. Akses dan aturan airnya berbeda dan harus dicek sendiri."]
+        ],
+        "related": ["coastal-photography", "angels-billabong", "swimming-sea-safety"]
+      }
+    },
+    {
+      "slug": "coastal-photography",
+      "group": "visit",
+      "en": {
+        "documentTitle": "Photographing Broken Beach: Best Viewpoints & Light",
+        "metaDescription": "Where to stand for the Broken Beach arch, how the light changes through the day, and simple safety rules for cliff-edge photography in Nusa Penida.",
+        "title": "Photographing the arch without the risk",
+        "lead": "Broken Beach's circular opening frames the sea like a window, which is why it shows up in so many Nusa Penida photos. The best shots come from the established viewing areas, not from climbing closer to the edge.",
+        "blocks": [
+          {"heading": "Where to point the camera", "paragraphs": ["The main viewing spot looks down into the cove through the rock arch, with the open sea behind it. From there you can also capture the green cliff ring and the small beach inside the circle."]},
+          {"heading": "Light and timing", "paragraphs": ["Mid-morning often gives clearer, less hazy light on the west coast, while late afternoon warms the cliff face. There is no safe swimming or descent, so plan photos from the permitted viewing level rather than the water."]},
+          {"heading": "Safety and etiquette", "paragraphs": ["Stay behind barriers and marked edges. Do not fly a drone without local permission, and never step past a fence for a wider angle. If the sea is high, keep more distance from the cliff lip."], "bullets": ["Use a zoom lens instead of moving closer to the edge.", "Watch footing on uneven, weathered limestone.", "Avoid blocking the path for other visitors."]}
+        ],
+        "faqs": [
+          ["What is the best time of day to photograph Broken Beach?", "Mid-morning usually offers clearer light on this west-coast side, with late afternoon adding warm colour to the cliff. Conditions vary, so check the sky on the day."],
+          ["Can I use a drone here?", "Only with local permission. Assume drone flight is restricted unless you have confirmed otherwise, and follow Indonesian rules."],
+          ["Is there a safe place to stand for the classic arch shot?", "Yes, from the established viewing area above the cove. Do not descend toward the water or climb unprotected edges for a photo."]
+        ],
+        "related": ["broken-beach-name", "best-time-to-visit", "walking-viewpoints"]
+      },
+      "id": {
+        "documentTitle": "Memotret Broken Beach: Titik Terbaik & Cahaya",
+        "metaDescription": "Di mana berdiri untuk lengkung Broken Beach, bagaimana cahaya berubah sepanjang hari, dan aturan aman memotret di tepi tebing Nusa Penida.",
+        "title": "Memotret lengkung tanpa risiko",
+        "lead": "Bukaan melingkar Broken Beach membingkai laut seperti jendela, itulah sebabnya sering muncul di foto Nusa Penida. Foto terbaik diambil dari area pandang yang ditetapkan, bukan dengan mendekat ke tepi.",
+        "blocks": [
+          {"heading": "Ke mana arah kamera", "paragraphs": ["Titik pandang utama menatap ke teluk melalui lengkung batu, dengan laut terbuka di belakangnya. Dari sana Anda juga dapat menangkap lingkaran tebing hijau dan pantai kecil di dalam lingkaran."]},
+          {"heading": "Cahaya dan waktu", "paragraphs": ["Sebelum tengah hari sering memberi cahaya lebih jernih di pesisir barat, sementara sore menghangatkan wajah tebing. Tidak ada berenang atau turun yang aman, jadi rencanakan foto dari level pandang yang diizinkan, bukan dari air."]}
+        ],
+        "faqs": [
+          ["Kapan waktu terbaik memotret Broken Beach?", "Sebelum tengah hari biasanya memberi cahaya lebih jernih di sisi pesisir barat, sementara sore menambah warna hangat pada tebing. Kondisi bervariasi, jadi periksa langit pada hari kunjungan."],
+          ["Bolehkah pakai drone di sini?", "Hanya dengan izin lokal. Anggap penerbangan drone dibatasi kecuali telah dikonfirmasi, dan ikuti aturan Indonesia."],
+          ["Apakah ada tempat aman untuk foto lengkung khas?", "Ya, dari area pandang yang ditetapkan di atas teluk. Jangan turun ke air atau memanjat tepi tak terlindung demi foto."]
+        ],
+        "related": ["broken-beach-name", "best-time-to-visit", "walking-viewpoints"]
+      }
+    },
+    {
+      "slug": "walking-viewpoints",
+      "group": "visit",
+      "en": {
+        "documentTitle": "Walking Around Broken Beach: Viewpoints & Path",
+        "metaDescription": "What the short walk at Broken Beach looks like, where the viewing points are, and how much time to allow for orientation on Nusa Penida.",
+        "title": "The short walk to the viewpoint",
+        "lead": "Broken Beach is experienced mainly from the cliff-top viewing area rather than a long trail. Allow about 45 to 60 minutes as a planning suggestion for arrival, orientation and photos from permitted areas.",
+        "blocks": [
+          {"heading": "What the path is like", "paragraphs": ["Visitors reach the cliff rim and look down into the circular cove through the rock arch. The walking is short and mostly on the same headland that also serves Angel's Billabong a few minutes away by road."]},
+          {"heading": "How long to allow", "paragraphs": ["Treat 45 to 60 minutes as a planning suggestion, not an official duration. Add travel time to and from your harbour or hotel, and confirm access and any closure on the day."]},
+          {"heading": "Pairs well with Angel's Billabong", "paragraphs": ["Because Angel's Billabong is so close, many visitors combine the two in one stop. Keep their access rules separate, and do not assume a path between them is open or safe."], "bullets": ["Park once and walk between the two viewing areas if the local route is open.", "Carry water; shade and facilities are limited.", "Wear sturdy footwear for uneven limestone."]}
+        ],
+        "faqs": [
+          ["Is there a long hiking trail at Broken Beach?", "No. The experience is a short walk to the cliff-top viewpoint. There is no verified safe descent into the cove."],
+          ["How much time should I plan?", "About 45 to 60 minutes for orientation and photos from permitted areas, plus your travel time to the site."],
+          ["Can I walk from Broken Beach to Angel's Billabong?", "They are on the same headland and close by road. Whether a walking connection is open and safe should be confirmed locally; do not assume it."]
+        ],
+        "related": ["best-time-to-visit", "angels-billabong", "onsite-facilities"]
+      },
+      "id": {
+        "documentTitle": "Berjalan di Broken Beach: Titik Pandang & Jalur",
+        "metaDescription": "Seperti apa jalan singkat di Broken Beach, di mana titik pandangnya, dan berapa waktu yang disiapkan untuk orientasi di Nusa Penida.",
+        "title": "Jalan singkat ke titik pandang",
+        "lead": "Broken Beach lebih banyak dinikmati dari area pandang tepi tebing daripada jalur panjang. Siapkan sekitar 45 sampai 60 menit sebagai saran perencanaan untuk tiba, orientasi, dan foto dari area yang diizinkan.",
+        "blocks": [
+          {"heading": "Seperti apa jalurnya", "paragraphs": ["Pengunjung mencapai tepi tebing dan menatap ke teluk melingkar melalui lengkung batu. Jalannya singkat dan sebagian besar di tanjung yang sama yang juga melayani Angel's Billabong beberapa menit jauhnya dengan kendaraan."]},
+          {"heading": "Berapa waktu disiapkan", "paragraphs": ["Anggap 45 sampai 60 menit sebagai saran perencanaan, bukan durasi resmi. Tambahkan waktu perjalanan ke dan dari pelabuhan atau hotel, dan konfirmasi akses serta penutupan pada hari kunjungan."]}
+        ],
+        "faqs": [
+          ["Apakah ada jalur pendakian panjang di Broken Beach?", "Tidak. Pengalaman ini adalah jalan singkat ke titik pandang tepi tebing. Tidak ada turunan aman yang terverifikasi ke teluk."],
+          ["Berapa waktu yang harus disiapkan?", "Sekitar 45 sampai 60 menit untuk orientasi dan foto dari area yang diizinkan, ditambah waktu perjalanan ke lokasi."],
+          ["Bolehkah berjalan dari Broken Beach ke Angel's Billabong?", "Keduanya berada di tanjung yang sama dan dekat dengan kendaraan. Apakah jalur pejalan terbuka dan aman harus dikonfirmasi setempat; jangan menganggapnya."]
+        ],
+        "related": ["best-time-to-visit", "angels-billabong", "onsite-facilities"]
+      }
+    },
+    {
+      "slug": "best-time-to-visit",
+      "group": "visit",
+      "en": {
+        "documentTitle": "Best Time to Visit Broken Beach, Nusa Penida",
+        "metaDescription": "When the sea is calmer, how the dry and wet seasons affect the west coast, and a realistic visit length for Broken Beach in Bali.",
+        "title": "Choosing the right day and season",
+        "lead": "Broken Beach is an open cliff-top viewpoint, so the main variables are sea state, weather and road conditions rather than a fixed opening time. The April to October dry season generally brings calmer seas and clearer views.",
+        "blocks": [
+          {"heading": "Season patterns", "paragraphs": ["Nusa Penida's dry season, roughly April to October, tends to have calmer seas and better visibility. The November to March wet season can bring heavier swell, rain and rougher island roads."]},
+          {"heading": "Time of day", "paragraphs": ["Mornings often have clearer light and lighter afternoon wind on the west coast. Because this is a viewpoint, not a swimming beach, you are not tied to tide times for safety, but high swell still makes cliff edges riskier."]},
+          {"heading": "Suggested length", "paragraphs": ["Plan 45 to 60 minutes for Broken Beach itself, and pair it with Angel's Billabong and other west-coast stops for a half-day loop. Confirm access and weather before you set out."], "bullets": ["Check the marine and weather outlook for Nusa Penida before travelling.", "Avoid cliff edges when the sea is rough.", "Combine with nearby west-coast spots to make the trip worthwhile."]}
+        ],
+        "faqs": [
+          ["What is the best month to visit?", "The dry season from April to October usually has calmer seas and clearer views, though conditions vary year to year."],
+          ["Is Broken Beach open all day?", "A fixed opening time was not supplied by the map listing we checked. Treat it as an open coastal viewpoint and confirm any local access rules on the day."],
+          ["How long should I spend there?", "About 45 to 60 minutes for orientation and photos, before adding travel and nearby stops."]
+        ],
+        "related": ["walking-viewpoints", "cliff-weather-safety", "west-half-day"]
+      },
+      "id": {
+        "documentTitle": "Waktu Terbaik Mengunjungi Broken Beach, Nusa Penida",
+        "metaDescription": "Kapan laut lebih tenang, bagaimana musim kemarau dan hujan memengaruhi pesisir barat, serta lama kunjungan yang realistis untuk Broken Beach di Bali.",
+        "title": "Memilih hari dan musim yang tepat",
+        "lead": "Broken Beach adalah titik pandang tepi tebing terbuka, sehingga variabel utamanya adalah kondisi laut, cuaca, dan jalan rather daripada jam buka tetap. Musim kemarau April hingga Oktober umumnya memberi laut lebih tenang dan pemandangan lebih jernih.",
+        "blocks": [
+          {"heading": "Pola musim", "paragraphs": ["Musim kemarau Nusa Penida, kira-kira April hingga Oktober, cenderung memiliki laut lebih tenang dan visibilitas lebih baik. Musim hujan November hingga Maret dapat membawa gelombang lebih besar, hujan, dan jalan pulau lebih kasar."]},
+          {"heading": "Waktu dalam hari", "paragraphs": ["Pagi sering memberi cahaya lebih jernih dan angin sore lebih ringan di pesisir barat. Karena ini titik pandang, bukan pantai berenang, Anda tidak terikat waktu pasang untuk keselamatan, namun gelombang tinggi tetap membuat tepi tebing lebih berisiko."]}
+        ],
+        "faqs": [
+          ["Bulan apa waktu terbaik berkunjung?", "Musim kemarau April hingga Oktober biasanya memberi laut lebih tenang dan pandangan lebih jelas, meski kondisi bervariasi tiap tahun."],
+          ["Apakah Broken Beach buka sepanjang hari?", "Jam buka tetap tidak diberikan oleh listing peta yang kami periksa. Anggap sebagai titik pandang pesisir terbuka dan konfirmasi aturan akses setempat pada hari kunjungan."],
+          ["Berapa lama saya harus menghabiskan waktu di sana?", "Sekitar 45 sampai 60 menit untuk orientasi dan foto, sebelum menambah perjalanan dan pemberhentian terdekat."]
+        ],
+        "related": ["walking-viewpoints", "cliff-weather-safety", "west-half-day"]
+      }
+    },
+    {
+      "slug": "entry-fees-parking",
+      "group": "visit",
+      "en": {
+        "documentTitle": "Broken Beach Entry Fee, Parking & Payment",
+        "metaDescription": "What we could and could not verify about Broken Beach charges, parking and payment methods, and questions to ask on site in Nusa Penida.",
+        "title": "Fees, parking and payment: what to confirm",
+        "lead": "Current entry fees, parking charges and payment methods at Broken Beach were not verified in our check. Use the notes below as a confirmation checklist rather than a price list.",
+        "blocks": [
+          {"heading": "What may be charged", "paragraphs": ["Coastal viewpoints on Nusa Penida sometimes involve area access, parking or local services. Whether Broken Beach charges any of these, and what is included, should be confirmed with staff on the day."]},
+          {"heading": "Payment methods", "paragraphs": ["Small roadside stops and parking attendants may prefer cash in Indonesian rupiah, and card or e-wallet acceptance is not guaranteed. Carry enough cash and ask for a receipt where one is offered."]},
+          {"heading": "Questions to ask on site", "paragraphs": ["Ask whether there is an entrance or area fee, what parking costs, and what the payment options are. Keep any receipt as proof of what you paid."], "bullets": ["Is there an area or entrance charge?", "What is the parking fee, if any?", "Which payment methods are accepted?", "What does the charge include?"]}
+        ],
+        "faqs": [
+          ["How much is the entrance fee?", "We could not verify a current fee. Ask staff on site whether an area, entrance or parking charge applies and what it covers."],
+          ["Can I pay by card?", "Card or e-wallet acceptance is not guaranteed at small coastal stops. Carry cash in rupiah and confirm the method before paying."],
+          ["Is parking available?", "A parking area is often mentioned, but its location, capacity and fee were not verified. Confirm with staff and do not assume the map pin marks the lot."]
+        ],
+        "related": ["onsite-facilities", "navigation-parking", "road-conditions"]
+      },
+      "id": {
+        "documentTitle": "Tiket, Parkir & Pembayaran Broken Beach",
+        "metaDescription": "Apa yang dapat dan tidak dapat kami verifikasi tentang biaya, parkir, dan metode pembayaran Broken Beach, serta pertanyaan untuk diajukan di lokasi Nusa Penida.",
+        "title": "Biaya, parkir, dan pembayaran: yang perlu dikonfirmasi",
+        "lead": "Tiket masuk, biaya parkir, dan metode pembayaran saat ini di Broken Beach tidak diverifikasi dalam pemeriksaan kami. Gunakan catatan berikut sebagai daftar konfirmasi, bukan daftar harga.",
+        "blocks": [
+          {"heading": "Apa yang mungkin dikenakan", "paragraphs": ["Titik pandang pesisir di Nusa Penida terkadang melibatkan akses kawasan, parkir, atau layanan lokal. Apakah Broken Beach mengenakan salah satunya, dan apa yang dicakup, harus dikonfirmasi kepada petugas pada hari kunjungan."]},
+          {"heading": "Metode pembayaran", "paragraphs": ["Warung tepi jalan kecil dan juru parkir mungkin lebih suka uang tunai rupiah, dan penerimaan kartu atau e-wallet tidak dijamin. Bawa cukup uang tunai dan minta struk bila tersedia."]}
+        ],
+        "faqs": [
+          ["Berapa harga tiket masuk?", "Kami tidak dapat memverifikasi biaya saat ini. Tanyakan petugas di lokasi apakah berlaku biaya kawasan, masuk, atau parkir dan apa yang dicakup."],
+          ["Bolehkah bayar dengan kartu?", "Penerimaan kartu atau e-wallet tidak dijamin di warung pesisir kecil. Bawa uang tunai rupiah dan konfirmasi metode sebelum membayar."],
+          ["Apakah tersedia parkir?", "Area parkir sering disebutkan, namun lokasi, kapasitas, dan biayanya tidak diverifikasi. Konfirmasi dengan petugas dan jangan menganggap pin peta menunjukkan lahan parkir."]
+        ],
+        "related": ["onsite-facilities", "navigation-parking", "road-conditions"]
+      }
+    },
+    {
+      "slug": "swimming-sea-safety",
+      "group": "visit",
+      "en": {
+        "documentTitle": "Can You Swim at Broken Beach? Sea Safety Explained",
+        "metaDescription": "Why Broken Beach is a viewpoint, not a swimming beach, and how to enjoy the coast safely without entering the water in Nusa Penida.",
+        "title": "Swimming at Broken Beach: read this first",
+        "lead": "Broken Beach is a cliff-top viewpoint over a coastal cove. There is no verified safe way down to the water, and the cove should not be treated as a swimming beach.",
+        "blocks": [
+          {"heading": "Why it is not a swimming spot", "paragraphs": ["The attraction is the rock arch and the circular cove seen from above. The map listing we checked gave no authorised descent, and old photos do not establish a safe route to the water."]},
+          {"heading": "Sea conditions are not a permit", "paragraphs": ["Calm-looking water, a low-tide reading or a regional sea-level model does not make entry safe. The model data on this site is regional, not a cliffside measurement, and is never a water-entry guarantee."]},
+          {"heading": "If you want to swim nearby", "paragraphs": ["For actual swimming, look at separate, genuinely swimmable beaches and confirm conditions locally. Broken Beach is best enjoyed from the viewing level."], "bullets": ["Stay on permitted paths and behind barriers.", "Never climb down unprotected cliff faces.", "Check a different, verified swimming beach if swimming is your goal."]}
+        ],
+        "faqs": [
+          ["Can visitors swim at Broken Beach?", "There is no verified safe access to the water. Treat it as a viewpoint, not a swimming beach, and do not descend based on old photos."],
+          ["Is the cove safe to enter at low tide?", "Low tide or a calm model reading does not make entry safe. Confirm with local staff, and do not treat model data as permission."],
+          ["Where can I swim near Broken Beach?", "Ask locally about beaches that are genuinely swimmable and confirm the day's conditions. This guide does not mark Broken Beach as a swimming site."]
+        ],
+        "related": ["cliff-weather-safety", "swimming-alternatives", "angels-billabong"]
+      },
+      "id": {
+        "documentTitle": "Bolehkah Berenang di Broken Beach? Keamanan Laut",
+        "metaDescription": "Mengapa Broken Beach adalah titik pandang, bukan pantai berenang, dan cara menikmati pesisir dengan aman tanpa masuk air di Nusa Penida.",
+        "title": "Berenang di Broken Beach: baca ini dulu",
+        "lead": "Broken Beach adalah titik pandang tepi tebing di atas teluk pesisir. Tidak ada jalur aman yang terverifikasi ke air, dan teluk tidak boleh diperlakukan sebagai pantai berenang.",
+        "blocks": [
+          {"heading": "Mengapa bukan tempat berenang", "paragraphs": ["Daya tarik utamanya adalah lengkung batu dan teluk melingkar yang dilihat dari atas. Listing peta yang kami periksa tidak memberi turunan resmi, dan foto lama tidak membuktikan rute aman ke air."]},
+          {"heading": "Kondisi laut bukan izin", "paragraphs": ["Air yang tampak tenang, bacaan pasang surut rendah, atau model muka laut regional tidak membuat masuk air aman. Data model di situs ini bersifat regional, bukan pengukuran tepi tebing, dan tidak pernah menjadi jaminan masuk air."]}
+        ],
+        "faqs": [
+          ["Bolehkah pengunjung berenang di Broken Beach?", "Tidak ada akses aman ke air yang terverifikasi. Anggap sebagai titik pandang, bukan pantai berenang, dan jangan turun berdasarkan foto lama."],
+          ["Apakah teluk aman dimasuki saat pasang surut rendah?", "Pasang surut rendah atau bacaan model tenang tidak membuat masuk aman. Konfirmasi dengan petugas setempat, dan jangan anggap data model sebagai izin."],
+          ["Di mana saya bisa berenang dekat Broken Beach?", "Tanyakan setempat tentang pantai yang benar-benar dapat dikenang dan konfirmasi kondisi hari itu. Panduan ini tidak menandai Broken Beach sebagai situs berenang."]
+        ],
+        "related": ["cliff-weather-safety", "swimming-alternatives", "angels-billabong"]
+      }
+    },
+    {
+      "slug": "cliff-weather-safety",
+      "group": "visit",
+      "en": {
+        "documentTitle": "Cliff & Weather Safety at Broken Beach, Nusa Penida",
+        "metaDescription": "Practical safety guidance for the cliff-top viewpoint at Broken Beach: big waves, wind, wet rock, and what to do in bad weather.",
+        "title": "Staying safe at the cliff edge",
+        "lead": "Broken Beach is an open cliff-top site above the sea. The main risks are unguarded edges, large swell, wind and weathered limestone, not facilities or crowds.",
+        "blocks": [
+          {"heading": "Edge and wave risk", "paragraphs": ["Waves can reach the cliff base even when the surface looks calm. Stay behind barriers and marked edges, keep children close, and never turn your back on the sea while near the lip."]},
+          {"heading": "Weather and footing", "paragraphs": ["Limestone becomes slippery when wet, and afternoon wind can be strong on the headland. Wear good footwear, avoid the edge when it rains or the sea is rough, and turn back if conditions worsen."]},
+          {"heading": "When to skip or leave", "paragraphs": ["If a storm, high swell or poor visibility arrives, leave the cliff area. Regional model data on this site is not a safety guarantee and should never replace local judgement."], "bullets": ["Do not pass barriers for a photo.", "Keep a safe distance from the cliff lip at all times.", "Watch children and less mobile companions constantly."]}
+        ],
+        "faqs": [
+          ["Is Broken Beach dangerous?", "The site is safe to view from established areas, but the cliff edge is unguarded and the sea can be large. Follow barriers and local guidance."],
+          ["What if the weather turns bad?", "Leave the cliff area if storms, high swell or poor visibility arrive. Do not rely on model data for safety decisions."],
+          ["Can children visit?", "Yes, with close supervision. Keep them away from the unguarded edge and hold hands near the viewing rim."]
+        ],
+        "related": ["swimming-sea-safety", "accessibility-guide", "best-time-to-visit"]
+      },
+      "id": {
+        "documentTitle": "Keamanan Tebing & Cuaca di Broken Beach, Nusa Penida",
+        "metaDescription": "Panduan praktis keselamatan di titik pandang tepi tebing Broken Beach: ombak besar, angin, batu licin, dan apa yang dilakukan saat cuaca buruk.",
+        "title": "Tetap aman di tepi tebing",
+        "lead": "Broken Beach adalah situs tepi tebing terbuka di atas laut. Risiko utamanya adalah tepi tak terlindung, gelombang besar, angin, dan batu kapur usang, bukan fasilitas atau keramaian.",
+        "blocks": [
+          {"heading": "Risiko tepi dan ombak", "paragraphs": ["Ombak dapat mencapai dasar tebing meskipun permukaan tampak tenang. Tetap di belakang pembatas dan tepi bertanda, jaga anak dekat, dan jangan membelakangi laut saat dekat tepi."]},
+          {"heading": "Cuaca dan pijakan", "paragraphs": ["Batu kapur menjadi licin saat basah, dan angin sore dapat kuat di tanjung. Kenakan alas kaki baik, hindari tepi saat hujan atau laut bergelora, dan kembali jika kondisi memburuk."]}
+        ],
+        "faqs": [
+          ["Apakah Broken Beach berbahaya?", "Situs aman untuk dilihat dari area yang ditetapkan, namun tepi tebing tak terlindung dan laut bisa besar. Ikuti pembatas dan panduan setempat."],
+          ["Bagaimana jika cuaca berubah buruk?", "Tinggalkan area tebing jika badai, gelombang tinggi, atau visibilitas buruk tiba. Jangan mengandalkan data model untuk keputusan keselamatan."],
+          ["Bolehkah anak-anak berkunjung?", "Ya, dengan pengawasan ketat. Jauhkan dari tepi tak terlindung dan pegang tangan di dekat bibir pandang."]
+        ],
+        "related": ["swimming-sea-safety", "accessibility-guide", "best-time-to-visit"]
+      }
+    },
+    {
+      "slug": "onsite-facilities",
+      "group": "visit",
+      "en": {
+        "documentTitle": "Facilities at Broken Beach: Toilets, Food, Water & Parking",
+        "metaDescription": "What to expect for toilets, food, water, parking and basic services at Broken Beach, and how to prepare because availability is not guaranteed.",
+        "title": "Facilities: plan with care",
+        "lead": "Services along the Nusa Penida coast are best treated as basic support, not a guarantee. Availability, hours and condition can shift with weather, season and local arrangements.",
+        "blocks": [
+          {"heading": "Toilets and resting", "paragraphs": ["Basic toilet or resting spots may exist near parking or small stalls, but their location, hours and condition were not verified. Ask staff or other visitors rather than assuming facilities at every turn."]},
+          {"heading": "Food, water and supplies", "paragraphs": ["Small warung or drinks stalls sometimes operate near popular west-coast stops, yet operating outlets and menus were not verified. Carry your own water and essentials subject to venue rules."]},
+          {"heading": "Parking, fuel and power", "paragraphs": ["Confirm parking location and any charge with staff, and do not assume vehicle charging or fuel is available at the site. Plan those needs with providers before the trip."], "bullets": ["Carry enough drinking water for the heat.", "Bring cash as small stalls may not take cards.", "Pack personal essentials before leaving the harbour."]}
+        ],
+        "faqs": [
+          ["Are there toilets at Broken Beach?", "Basic facilities may exist but were not verified. Ask locally about location, hours and condition rather than assuming they are available."],
+          ["Can I buy food and water there?", "Small stalls sometimes operate, but outlets and menus were not verified. Carry your own water and essentials to be safe."],
+          ["Is there parking?", "A parking area is often mentioned but its location, capacity and fee were not verified. Confirm with staff on the day."]
+        ],
+        "related": ["entry-fees-parking", "food-nearby-broken-beach", "navigation-parking"]
+      },
+      "id": {
+        "documentTitle": "Fasilitas di Broken Beach: Toilet, Makan, Air & Parkir",
+        "metaDescription": "Apa yang diharapkan untuk toilet, makanan, air, parkir, dan layanan dasar di Broken Beach, serta cara bersiap karena ketersediaan tidak dijamin.",
+        "title": "Fasilitas: rencanakan dengan hati-hati",
+        "lead": "Layanan di sepanjang pesisir Nusa Penida sebaiknya diperlakukan sebagai dukungan dasar, bukan jaminan. Ketersediaan, jam, dan kondisi dapat berubah dengan cuaca, musim, dan pengaturan setempat.",
+        "blocks": [
+          {"heading": "Toilet dan istirahat", "paragraphs": ["Toilet atau tempat istirahat dasar mungkin ada di dekat parkir atau warung kecil, namun lokasi, jam, dan kondisinya tidak diverifikasi. Tanyakan petugas atau pengunjung lain daripada menganggap fasilitas di setiap tikungan."]},
+          {"heading": "Makanan, air, dan perlengkapan", "paragraphs": ["Warung kecil atau gerai minuman terkadang beroperasi di dekat pemberhentian pesisir barat populer, namun outlet dan menu yang beroperasi tidak diverifikasi. Bawa air dan kebutuhan sendiri sesuai aturan lokasi."]}
+        ],
+        "faqs": [
+          ["Apakah ada toilet di Broken Beach?", "Fasilitas dasar mungkin ada namun tidak diverifikasi. Tanyakan setempat tentang lokasi, jam, dan kondisi daripada menganggap tersedia."],
+          ["Bolehkah membeli makanan dan air di sana?", "Warung kecil terkadang beroperasi, namun outlet dan menu tidak diverifikasi. Bawa air dan kebutuhan sendiri untuk aman."],
+          ["Apakah ada parkir?", "Area parkir sering disebutkan namun lokasi, kapasitas, dan biayanya tidak diverifikasi. Konfirmasi dengan petugas pada hari kunjungan."]
+        ],
+        "related": ["entry-fees-parking", "food-nearby-broken-beach", "navigation-parking"]
+      }
+    },
+    {
+      "slug": "accessibility-guide",
+      "group": "visit",
+      "en": {
+        "documentTitle": "Accessibility at Broken Beach: Steps, Mobility & Visitors Needing Help",
+        "metaDescription": "What the map listing showed about wheelchair access at Broken Beach, and practical notes for elderly or less mobile visitors in Nusa Penida.",
+        "title": "Accessibility and mobility notes",
+        "lead": "The map listing we checked marked no wheelchair-accessible entrance. That is a listing field, not a full route audit, so ask about paths and assistance before you travel.",
+        "blocks": [
+          {"heading": "What the listing showed", "paragraphs": ["The source we reviewed indicated no wheelchair-accessible entrance for Broken Beach. This tells you the formal listing, not every path on site, so treat it as a starting point for planning."]},
+          {"heading": "For elderly or less mobile visitors", "paragraphs": ["The walking is short but on weathered limestone with uneven ground and cliff edges. Allow extra time, wear stable footwear, and ask about the condition of the viewing approach on the day."]},
+          {"heading": "Questions to ask locally", "paragraphs": ["Before going, ask about path surface, distance from parking to the viewpoint, and whether assistance is available."], "bullets": ["Is the path from parking to the rim flat or stepped?", "How far is the viewpoint from where vehicles stop?", "Is help available for those who need it?"]}
+        ],
+        "faqs": [
+          ["Is Broken Beach wheelchair accessible?", "The map listing we checked marked no wheelchair-accessible entrance. Ask locally about the actual path and assistance before visiting."],
+          ["Is it suitable for elderly visitors?", "The walk is short but uneven and cliff-edged. Allow extra time, wear good footwear, and confirm conditions on the day."],
+          ["How far is the viewpoint from parking?", "Distance and surface were not verified. Ask staff about the route from where vehicles stop to the viewing rim."]
+        ],
+        "related": ["cliff-weather-safety", "with-children", "onsite-facilities"]
+      },
+      "id": {
+        "documentTitle": "Aksesibilitas di Broken Beach: Anak Tangga, Mobilitas & Bantuan",
+        "metaDescription": "Apa yang ditunjukkan listing peta tentang akses kursi roda di Broken Beach, dan catatan praktis bagi pengunjung lansia atau kurang mobilitas di Nusa Penida.",
+        "title": "Catatan aksesibilitas dan mobilitas",
+        "lead": "Listing peta yang kami periksa menandai tidak ada pintu masuk akses kursi roda. Itu bidang listing, bukan audit rute penuh, jadi tanyakan jalur dan bantuan sebelum bepergian.",
+        "blocks": [
+          {"heading": "Apa yang ditunjukkan listing", "paragraphs": ["Sumber yang kami tinjau menunjukkan tidak ada pintu masuk akses kursi roda untuk Broken Beach. Ini memberi tahu Anda listing formal, bukan setiap jalur di lokasi, jadi jadikan titik awal perencanaan."]},
+          {"heading": "Untuk pengunjung lansia atau kurang mobilitas", "paragraphs": ["Jalannya singkat namun di atas batu kapur usang dengan permukaan tidak rata dan tepi tebing. Siapkan waktu ekstra, kenakan alas kaki stabil, dan tanyakan kondisi pendekatan pandang pada hari kunjungan."]}
+        ],
+        "faqs": [
+          ["Apakah Broken Beach akses kursi roda?", "Listing peta yang kami periksa menandai tidak ada pintu masuk akses kursi roda. Tanyakan setempat tentang jalur sebenarnya dan bantuan sebelum berkunjung."],
+          ["Apakah cocok untuk pengunjung lansia?", "Jalannya singkat namun tidak rata dan bertebing. Siapkan waktu ekstra, kenakan alas kaki baik, dan konfirmasi kondisi pada hari kunjungan."],
+          ["Berapa jauh titik pandang dari parkir?", "Jarak dan permukaan tidak diverifikasi. Tanyakan petugas tentang rute dari tempat kendaraan berhenti ke bibir pandang."]
+        ],
+        "related": ["cliff-weather-safety", "with-children", "onsite-facilities"]
+      }
+    },
+    {
+      "slug": "from-sanur",
+      "group": "transport",
+      "en": {
+        "documentTitle": "Sanur to Broken Beach: Boat, Harbour & Island Transfer",
+        "metaDescription": "How to get from Sanur, Bali to Broken Beach on Nusa Penida: fast boat crossings, which harbour to use, and the road transfer to the west coast.",
+        "title": "From Sanur to Broken Beach",
+        "lead": "Most visitors start on Bali's mainland at Sanur, take a fast boat to Nusa Penida, then continue by road to the west coast. Confirm boat operators, schedules and fares for your travel date.",
+        "blocks": [
+          {"heading": "The crossing from Sanur", "paragraphs": ["Fast boats run from Sanur on Bali's south-east coast to Nusa Penida, usually arriving at Toyapakeh or Sampalan (Banjar Nyuh). The sea crossing is typically around 30 to 45 minutes, but weather and swell can change timings."]},
+          {"heading": "Which harbour for the west coast", "paragraphs": ["Toyapakeh is the closest main harbour to Broken Beach and the west-coast sites, so it is usually the more direct choice. Sampalan is farther north-east and adds road time."]},
+          {"heading": "The island road leg", "paragraphs": ["From Toyapakeh, the drive to Broken Beach is a rough island road of roughly 20 to 40 minutes depending on condition. Pre-arrange a driver or scooter, and confirm the meeting point before you sail."], "bullets": ["Book the boat and the island transfer for the same day where possible.", "Confirm the arrival harbour with the operator.", "Allow buffer time for rough roads and swell."]}
+        ],
+        "faqs": [
+          ["How do I get from Sanur to Broken Beach?", "Take a fast boat from Sanur to Nusa Penida, typically to Toyapakeh, then continue by car or scooter to the west coast."],
+          ["Which harbour should I arrive at?", "Toyapakeh is closest to Broken Beach and the west coast. Sampalan is an alternative but adds road time."],
+          ["How long is the whole journey?", "Plan for the boat crossing plus a 20 to 40 minute island road leg from Toyapakeh, with extra buffer for weather and rough roads."]
+        ],
+        "related": ["from-toyapakeh", "car-vs-scooter", "road-conditions"]
+      },
+      "id": {
+        "documentTitle": "Sanur ke Broken Beach: Boat, Pelabuhan & Transfer Pulau",
+        "metaDescription": "Cara dari Sanur, Bali ke Broken Beach di Nusa Penida: penyeberangan boat cepat, pelabuhan yang dipakai, dan transfer jalan ke pesisir barat.",
+        "title": "Dari Sanur ke Broken Beach",
+        "lead": "Sebagian besar pengunjung mulai dari daratan Bali di Sanur, naik boat cepat ke Nusa Penida, lalu lanjut dengan jalan ke pesisir barat. Konfirmasi operator boat, jadwal, dan tarif untuk tanggal perjalanan Anda.",
+        "blocks": [
+          {"heading": "Penyeberangan dari Sanur", "paragraphs": ["Boat cepat beroperasi dari Sanur di pesisir tenggara Bali ke Nusa Penida, biasanya tiba di Toyapakeh atau Sampalan (Banjar Nyuh). Penyeberangan laut biasanya sekitar 30 sampai 45 menit, namun cuaca dan gelombang dapat mengubah waktu."]},
+          {"heading": "Pelabuhan mana untuk pesisir barat", "paragraphs": ["Toyapakeh adalah pelabuhan utama terdekat ke Broken Beach dan situs pesisir barat, sehingga biasanya pilihan lebih langsung. Sampalan lebih jauh ke timur laut dan menambah waktu jalan."]},
+          {"heading": "Leg jalan pulau", "paragraphs": ["Dari Toyapakeh, perjalanan ke Broken Beach adalah jalan pulau kasar sekitar 20 sampai 40 menit tergantung kondisi. Pesan pengemudi atau sepeda motor sebelumnya, dan konfirmasi titik temu sebelum berlayar."], "bullets": ["Pesan boat dan transfer pulau di hari yang sama bila memungkinkan.", "Konfirmasi pelabuhan tiba dengan operator.", "Sediakan waktu tambahan untuk jalan kasar dan gelombang."]}
+        ],
+        "faqs": [
+          ["Bagaimana saya dari Sanur ke Broken Beach?", "Naik boat cepat dari Sanur ke Nusa Penida, biasanya ke Toyapakeh, lalu lanjut dengan mobil atau sepeda motor ke pesisir barat."],
+          ["Pelabuhan mana yang harus saya tiba?", "Toyapakeh terdekat ke Broken Beach dan pesisir barat. Sampalan adalah alternatif namun menambah waktu jalan."],
+          ["Berapa lama seluruh perjalanan?", "Siapkan penyeberangan boat plus leg jalan pulau 20 sampai 40 menit dari Toyapakeh, dengan tambahan waktu untuk cuaca dan jalan kasar."]
+        ],
+        "related": ["from-toyapakeh", "car-vs-scooter", "road-conditions"]
+      }
+    },
+    {
+      "slug": "from-toyapakeh",
+      "group": "transport",
+      "en": {
+        "documentTitle": "Toyapakeh Harbour to Broken Beach: Road Transfer",
+        "metaDescription": "Driving from Toyapakeh Harbour to Broken Beach on Nusa Penida: distance, rough-road notes and how to arrange the transfer.",
+        "title": "Toyapakeh to Broken Beach",
+        "lead": "Toyapakeh is the main harbour closest to the west coast, so it is usually the most direct gateway to Broken Beach. The remaining trip is a rough island road.",
+        "blocks": [
+          {"heading": "The road leg", "paragraphs": ["From Toyapakeh, Broken Beach is roughly 20 to 40 minutes by road depending on condition. The route crosses the island's rugged interior, so expect bumps and slow sections rather than a smooth highway."]},
+          {"heading": "Arranging the transfer", "paragraphs": ["Most visitors pre-book a private car with driver or rent a scooter on the island. Agree the pickup point at the harbour, the destination and the return plan with the provider before you sail."]},
+          {"heading": "Combine with nearby stops", "paragraphs": ["Because Toyapakeh feeds the whole west coast, it is easy to pair Broken Beach with Angel's Billabong, Paluang Cliff and Crystal Bay in one loop."], "bullets": ["Confirm the harbour arrival with the boat operator.", "Book the driver or scooter for the full day, not just one drop-off.", "Carry cash for parking and small stalls."]}
+        ],
+        "faqs": [
+          ["How far is Broken Beach from Toyapakeh?", "Roughly 20 to 40 minutes by road depending on conditions; it is the closest main harbour to the west coast."],
+          ["Should I book a driver from the harbour?", "Most visitors book a private car with driver or scooter for the day. Agree pickup, destination and return before sailing."],
+          ["Can I visit other west-coast spots from here?", "Yes. Toyapakeh is the natural start for a loop including Angel's Billabong, Paluang Cliff and Crystal Bay."]
+        ],
+        "related": ["from-sanur", "car-vs-scooter", "west-half-day"]
+      },
+      "id": {
+        "documentTitle": "Pelabuhan Toyapakeh ke Broken Beach: Transfer Jalan",
+        "metaDescription": "Berkendara dari Pelabuhan Toyapakeh ke Broken Beach di Nusa Penida: jarak, catatan jalan kasar, dan cara mengatur transfer.",
+        "title": "Toyapakeh ke Broken Beach",
+        "lead": "Toyapakeh adalah pelabuhan utama terdekat ke pesisir barat, sehingga biasanya gerbang paling langsung ke Broken Beach. Sisa perjalanan adalah jalan pulau kasar.",
+        "blocks": [
+          {"heading": "Leg jalan", "paragraphs": ["Dari Toyapakeh, Broken Beach sekitar 20 sampai 40 menit dengan kendaraan tergantung kondisi. Rute melintasi pedalaman pulau yang kasar, jadi harapkan goncangan dan bagian lambat daripada jalan raya mulus."]},
+          {"heading": "Mengatur transfer", "paragraphs": ["Sebagian besar pengunjung memesan mobil pribadi dengan pengemudi atau menyewa sepeda motor di pulau. Sepakati titik jemput di pelabuhan, tujuan, dan rencana kembali dengan penyedia sebelum berlayar."]}
+        ],
+        "faqs": [
+          ["Berapa jauh Broken Beach dari Toyapakeh?", "Sekitar 20 sampai 40 menit dengan kendaraan tergantung kondisi; ini pelabuhan utama terdekat ke pesisir barat."],
+          ["Haruskah saya pesan pengemudi dari pelabuhan?", "Sebagian besar pengunjung memesan mobil pribadi dengan pengemudi atau sepeda motor untuk sehari. Sepakati jemput, tujuan, dan kembali sebelum berlayar."],
+          ["Bolehkah mengunjungi spot pesisir barat lain dari sini?", "Ya. Toyapakeh adalah awal alami untuk loop yang mencakup Angel's Billabong, Paluang Cliff, dan Crystal Bay."]
+        ],
+        "related": ["from-sanur", "car-vs-scooter", "west-half-day"]
+      }
+    },
+    {
+      "slug": "from-sampalan",
+      "group": "transport",
+      "en": {
+        "documentTitle": "Sampalan (Banjar Nyuh) Harbour to Broken Beach",
+        "metaDescription": "Using Sampalan or Banjar Nyuh Harbour to reach Broken Beach on Nusa Penida, and why it adds road time compared with Toyapakeh.",
+        "title": "Sampalan to Broken Beach",
+        "lead": "Some fast boats arrive at Sampalan, also called Banjar Nyuh, on Nusa Penida's north-east coast. From there, the west coast is a longer drive than from Toyapakeh.",
+        "blocks": [
+          {"heading": "Where Sampalan is", "paragraphs": ["Sampalan, often called Banjar Nyuh, sits on the north-east of Nusa Penida. It is a valid arrival point, but it is farther from the west-coast sites than Toyapakeh."]},
+          {"heading": "The longer road leg", "paragraphs": ["Expect roughly 45 to 70 minutes of island road from Sampalan to Broken Beach, depending on condition. If your priority is the west coast, Toyapakeh is usually the more direct harbour."]},
+          {"heading": "When Sampalan makes sense", "paragraphs": ["Sampalan can suit travellers who also plan north or east-coast stops, or whose boat only serves that harbour. Plan the full day around the longer transfer."], "bullets": ["Confirm which harbour your boat uses before booking.", "Budget extra road time if you arrive at Sampalan.", "Pre-book the island transfer for the whole day."]}
+        ],
+        "faqs": [
+          ["Can I reach Broken Beach from Sampalan?", "Yes, but it is a longer drive, roughly 45 to 70 minutes by road, because Sampalan is on the north-east coast."],
+          ["Is Toyapakeh or Sampalan better for the west coast?", "Toyapakeh is usually more direct for Broken Beach and the west coast. Sampalan adds road time."],
+          ["Why do boats use different harbours?", "Operators serve Toyapakeh or Sampalan depending on route and conditions. Confirm your arrival harbour when booking."]
+        ],
+        "related": ["from-toyapakeh", "from-sanur", "road-conditions"]
+      },
+      "id": {
+        "documentTitle": "Pelabuhan Sampalan (Banjar Nyuh) ke Broken Beach",
+        "metaDescription": "Menggunakan Pelabuhan Sampalan atau Banjar Nyuh untuk mencapai Broken Beach di Nusa Penida, dan mengapa menambah waktu jalan dibanding Toyapakeh.",
+        "title": "Sampalan ke Broken Beach",
+        "lead": "Beberapa boat cepat tiba di Sampalan, juga disebut Banjar Nyuh, di pesisir timur laut Nusa Penida. Dari sana, pesisir barat adalah perjalanan lebih jauh daripada dari Toyapakeh.",
+        "blocks": [
+          {"heading": "Di mana Sampalan", "paragraphs": ["Sampalan, sering disebut Banjar Nyuh, terletak di timur laut Nusa Penida. Ini titik tiba valid, namun lebih jauh dari situs pesisir barat daripada Toyapakeh."]},
+          {"heading": "Leg jalan lebih panjang", "paragraphs": ["Harapkan sekitar 45 sampai 70 menit jalan pulau dari Sampalan ke Broken Beach, tergantung kondisi. Jika prioritas Anda pesisir barat, Toyapakeh biasanya pelabuhan lebih langsung."]}
+        ],
+        "faqs": [
+          ["Bolehkah mencapai Broken Beach dari Sampalan?", "Ya, namun perjalanan lebih jauh, sekitar 45 sampai 70 menit dengan kendaraan, karena Sampalan di pesisir timur laut."],
+          ["Toyapakeh atau Sampalan lebih baik untuk pesisir barat?", "Toyapakeh biasanya lebih langsung untuk Broken Beach dan pesisir barat. Sampalan menambah waktu jalan."],
+          ["Mengapa boat menggunakan pelabuhan berbeda?", "Operator melayani Toyapakeh atau Sampalan tergantung rute dan kondisi. Konfirmasi pelabuhan tiba saat memesan."]
+        ],
+        "related": ["from-toyapakeh", "from-sanur", "road-conditions"]
+      }
+    },
+    {
+      "slug": "from-kelingking",
+      "group": "transport",
+      "en": {
+        "documentTitle": "Kelingking Beach to Broken Beach: Route & Drive",
+        "metaDescription": "How to travel between Kelingking Beach and Broken Beach on Nusa Penida, including road distance and how to link them in one day.",
+        "title": "Between Kelingking and Broken Beach",
+        "lead": "Kelingking Beach and Broken Beach are both headline Nusa Penida stops, but they sit on different parts of the island. Linking them needs a planned island drive.",
+        "blocks": [
+          {"heading": "Where Kelingking is", "paragraphs": ["Kelingking Beach is on the island's south-west, famous for its cliff shape. From there, Broken Beach on the west coast is roughly 30 to 50 minutes by the island's rough roads."]},
+          {"heading": "Linking the two", "paragraphs": ["Most visitors join them with a west-coast loop that also includes Angel's Billabong, Paluang Cliff and sometimes Crystal Bay. A private car with driver makes the connection far easier than multiple scooter trips."]},
+          {"heading": "Order and timing", "paragraphs": ["A common order is Broken Beach and Angel's Billabong first, then Paluang Cliff, then Kelingking later in the day. Confirm road conditions and leave buffer time."], "bullets": ["Treat 30 to 50 minutes as a road estimate, not a guarantee.", "Do not attempt to walk between them; the distance is too far.", "Pre-book a full-day driver to connect both."]}
+        ],
+        "faqs": [
+          ["How far is Broken Beach from Kelingking?", "Roughly 30 to 50 minutes by the island's rough roads, because they are on different parts of Nusa Penida."],
+          ["Can I walk between Kelingking and Broken Beach?", "No, the distance is too far across rough terrain. Use a car or scooter transfer."],
+          ["Should I visit both in one day?", "Yes, they are usually combined in a west-coast loop with Angel's Billabong and Paluang Cliff."]
+        ],
+        "related": ["kelingking-beach", "west-half-day", "car-vs-scooter"]
+      },
+      "id": {
+        "documentTitle": "Pantai Kelingking ke Broken Beach: Rute & Perjalanan",
+        "metaDescription": "Cara bepergian antara Pantai Kelingking dan Broken Beach di Nusa Penida, termasuk jarak jalan dan menghubungkannya dalam satu hari.",
+        "title": "Antara Kelingking dan Broken Beach",
+        "lead": "Pantai Kelingking dan Broken Beach keduanya adalah pemberhentian utama Nusa Penida, namun berada di bagian pulau berbeda. Menghubungkannya membutuhkan perjalanan pulau yang direncanakan.",
+        "blocks": [
+          {"heading": "Di mana Kelingking", "paragraphs": ["Pantai Kelingking di pesisir barat daya pulau, terkenal dengan bentuk tebingnya. Dari sana, Broken Beach di pesisir barat sekitar 30 sampai 50 menit dengan jalan pulau yang kasar."]},
+          {"heading": "Menghubungkan keduanya", "paragraphs": ["Sebagian besar pengunjung menggabungkannya dengan loop pesisir barat yang juga mencakup Angel's Billabong, Paluang Cliff, dan terkadang Crystal Bay. Mobil pribadi dengan pengemudi membuat koneksi jauh lebih mudah."]}
+        ],
+        "faqs": [
+          ["Berapa jauh Broken Beach dari Kelingking?", "Sekitar 30 sampai 50 menit dengan jalan pulau yang kasar, karena berada di bagian pulau berbeda."],
+          ["Bolehkah berjalan kaki antara Kelingking dan Broken Beach?", "Tidak, jaraknya terlalu jauh melintasi medan kasar. Gunakan transfer mobil atau sepeda motor."],
+          ["Haruskah saya mengunjungi keduanya dalam satu hari?", "Ya, biasanya digabung dalam loop pesisir barat dengan Angel's Billabong dan Paluang Cliff."]
+        ],
+        "related": ["kelingking-beach", "west-half-day", "car-vs-scooter"]
+      }
+    },
+    {
+      "slug": "from-crystal-bay",
+      "group": "transport",
+      "en": {
+        "documentTitle": "Crystal Bay to Broken Beach: Drive & Combined Trip",
+        "metaDescription": "How to travel from Crystal Bay to Broken Beach on Nusa Penida, drive time, and how to combine the north-west bay with west-coast viewpoints.",
+        "title": "Crystal Bay to Broken Beach",
+        "lead": "Crystal Bay is on Nusa Penida's north-west coast and is known as a calm swimming and snorkelling spot. It pairs naturally with the west-coast viewpoint circuit.",
+        "blocks": [
+          {"heading": "Where Crystal Bay is", "paragraphs": ["Crystal Bay sits on the north-west coast, roughly 45 to 70 minutes by road from Broken Beach depending on conditions. It is a different kind of stop: a sheltered bay rather than a cliff arch."]},
+          {"heading": "Combining the two", "paragraphs": ["Because both are on the west side, many visitors link Crystal Bay with Broken Beach, Angel's Billabong and Paluang Cliff in a single day, swimming at Crystal Bay and viewing the arch elsewhere."]},
+          {"heading": "Order and timing", "paragraphs": ["A common plan puts the cliff viewpoints in the morning and Crystal Bay later for swimming and sunset, but confirm sea conditions before any water activity."], "bullets": ["Treat 45 to 70 minutes as a road estimate, not a guarantee.", "Crystal Bay is a swimming spot; Broken Beach is a viewpoint only.", "Confirm sea conditions before entering the water anywhere."]}
+        ],
+        "faqs": [
+          ["How far is Broken Beach from Crystal Bay?", "Roughly 45 to 70 minutes by road, because Crystal Bay is on the north-west coast."],
+          ["Can I swim at Crystal Bay and view Broken Beach the same day?", "Yes, they are often combined in a west-coast loop; Crystal Bay for swimming, Broken Beach for the viewpoint."],
+          ["Is Crystal Bay safe for swimming?", "It is a more sheltered bay, but always confirm the day's sea conditions locally before entering the water."]
+        ],
+        "related": ["crystal-bay", "west-full-day", "swimming-alternatives"]
+      },
+      "id": {
+        "documentTitle": "Crystal Bay ke Broken Beach: Perjalanan & Trip Gabungan",
+        "metaDescription": "Cara bepergian dari Crystal Bay ke Broken Beach di Nusa Penida, waktu berkendara, dan menghubungkan teluk barat laut dengan titik pandang pesisir barat.",
+        "title": "Crystal Bay ke Broken Beach",
+        "lead": "Crystal Bay berada di pesisir barat laut Nusa Penida dan dikenal sebagai tempat berenang dan snorkeling tenang. Ini dipasangkan secara alami dengan sirkuit titik pandang pesisir barat.",
+        "blocks": [
+          {"heading": "Di mana Crystal Bay", "paragraphs": ["Crystal Bay terletak di pesisir barat laut, sekitar 45 sampai 70 menit dengan kendaraan dari Broken Beach tergantung kondisi. Ini jenis pemberhentian berbeda: teluk terlindung bukan lengkung tebing."]},
+          {"heading": "Menggabungkan keduanya", "paragraphs": ["Karena keduanya di sisi barat, banyak pengunjung menghubungkan Crystal Bay dengan Broken Beach, Angel's Billabong, dan Paluang Cliff dalam satu hari, berenang di Crystal Bay dan melihat lengkung di tempat lain."]}
+        ],
+        "faqs": [
+          ["Berapa jauh Broken Beach dari Crystal Bay?", "Sekitar 45 sampai 70 menit dengan kendaraan, karena Crystal Bay di pesisir barat laut."],
+          ["Bolehkah berenang di Crystal Bay dan melihat Broken Beach di hari yang sama?", "Ya, sering digabung dalam loop pesisir barat; Crystal Bay untuk berenang, Broken Beach untuk titik pandang."],
+          ["Apakah Crystal Bay aman untuk berenang?", "Ini teluk lebih terlindung, namun selalu konfirmasi kondisi laut hari itu setempat sebelum masuk air."]
+        ],
+        "related": ["crystal-bay", "west-full-day", "swimming-alternatives"]
+      }
+    },
+    {
+      "slug": "car-vs-scooter",
+      "group": "transport",
+      "en": {
+        "documentTitle": "Nusa Penida Transport: Private Car with Driver vs Scooter",
+        "metaDescription": "Choosing between hiring a car with driver or riding a scooter on Nusa Penida, with road-condition and safety notes for reaching Broken Beach.",
+        "title": "Car with driver or scooter?",
+        "lead": "Most visitors reach Broken Beach by private car with driver or by rented scooter. The choice affects comfort, safety on rough roads and how easily you link several stops.",
+        "blocks": [
+          {"heading": "Private car with driver", "paragraphs": ["A car with driver is the easier option for the island's rough roads, especially if you plan several west-coast stops in one day. The driver handles navigation and parking while you focus on the views."]},
+          {"heading": "Scooter rental", "paragraphs": ["A scooter gives flexibility and lower cost, but Nusa Penida roads are rough, hilly and often dusty. Only ride if you are confident on similar terrain, wear a helmet, and avoid it in bad weather."]},
+          {"heading": "Other options", "paragraphs": ["Shared tours and arranged transfers also exist. Whatever you choose, confirm the meeting point, destination and return plan before you sail."], "bullets": ["Car with driver suits groups, families and rough-road days.", "Scooter suits confident riders in dry conditions.", "Confirm price, duration and what is included before paying."]}
+        ],
+        "faqs": [
+          ["Is a driver worth it on Nusa Penida?", "For the rough west-coast roads and multiple stops, a car with driver is usually the easier and safer choice."],
+          ["Can I ride a scooter to Broken Beach?", "Yes, but only if you are confident on rough, hilly roads. Wear a helmet and avoid scooters in bad weather."],
+          ["What should I confirm before paying?", "Agree the price, duration, pickup point, destination and return plan with the provider."]
+        ],
+        "related": ["road-conditions", "from-toyapakeh", "navigation-parking"]
+      },
+      "id": {
+        "documentTitle": "Transport Nusa Penida: Mobil Pribadi + Supir vs Sepeda Motor",
+        "metaDescription": "Memilih antara menyewa mobil dengan supir atau mengendarai sepeda motor di Nusa Penida, dengan catatan kondisi jalan dan keselamatan menuju Broken Beach.",
+        "title": "Mobil dengan supir atau sepeda motor?",
+        "lead": "Sebagian besar pengunjung mencapai Broken Beach dengan mobil pribadi berikut supir atau sepeda motor sewaan. Pilihan ini memengaruhi kenyamanan, keselamatan di jalan kasar, dan kemudahan menghubungkan beberapa pemberhentian.",
+        "blocks": [
+          {"heading": "Mobil pribadi dengan supir", "paragraphs": ["Mobil dengan supir adalah opsi lebih mudah untuk jalan pulau yang kasar, terutama bila merencanakan beberapa pemberhentian pesisir barat dalam sehari. Supir menangani navigasi dan parkir sementara Anda fokus pada pemandangan."]},
+          {"heading": "Sewa sepeda motor", "paragraphs": ["Sepeda motor memberi fleksibilitas dan biaya lebih rendah, namun jalan Nusa Penida kasar, berbukit, dan sering berdebu. Hanya mengendarai jika Anda yakin di medan serupa, kenakan helm, dan hindari saat cuaca buruk."]}
+        ],
+        "faqs": [
+          ["Apakah supir sepadan di Nusa Penida?", "Untuk jalan pesisir barat yang kasar dan beberapa pemberhentian, mobil dengan supir biasanya pilihan lebih mudah dan aman."],
+          ["Bolehkah naik sepeda motor ke Broken Beach?", "Ya, tapi hanya jika Anda yakin di jalan kasar dan berbukit. Kenakan helm dan hindari sepeda motor saat cuaca buruk."],
+          ["Apa yang harus dikonfirmasi sebelum membayar?", "Sepakati harga, durasi, titik jemput, tujuan, dan rencana kembali dengan penyedia."]
+        ],
+        "related": ["road-conditions", "from-toyapakeh", "navigation-parking"]
+      }
+    },
+    {
+      "slug": "road-conditions",
+      "group": "transport",
+      "en": {
+        "documentTitle": "Nusa Penida Roads: Conditions & Driving Safety",
+        "metaDescription": "What to expect from Nusa Penida's roads on the way to Broken Beach, and safety tips for drivers and scooter riders.",
+        "title": "Roads and driving safety",
+        "lead": "Nusa Penida's roads are noticeably rougher than mainland Bali. The drive to Broken Beach crosses uneven, hilly terrain, so plan for slow sections rather than fast miles.",
+        "blocks": [
+          {"heading": "What the roads are like", "paragraphs": ["Expect potholes, loose gravel, steep dips and narrow passes in places. After rain, sections can become muddy or slippery, and afternoon dust is common in dry weather."]},
+          {"heading": "Safety tips", "paragraphs": ["Drive slowly, keep a safe distance, and avoid the scooter option entirely in heavy rain or on unfamiliar rough stretches. A local driver who knows the conditions is a real advantage."]},
+          {"heading": "Plan with buffer", "paragraphs": ["Because travel times depend on road state, treat published minute estimates as rough guides and add buffer so one delay does not ruin the day."], "bullets": ["Lower your speed on rough and hilly sections.", "Wear a helmet if on a scooter.", "Avoid night driving where possible.", "Keep cash for any small roadside needs."]}
+        ],
+        "faqs": [
+          ["Are the roads to Broken Beach paved?", "Parts are paved but rough, with potholes, gravel and steep dips in places. Expect a slow, bumpy drive."],
+          ["Is it safe to ride a scooter?", "Only for confident riders in good conditions. Avoid scooters in rain or on rough unfamiliar stretches."],
+          ["How long does the drive really take?", "Treat estimates as rough; conditions, not distance, set the time. Add buffer for delays."]
+        ],
+        "related": ["car-vs-scooter", "navigation-parking", "from-toyapakeh"]
+      },
+      "id": {
+        "documentTitle": "Jalan Nusa Penida: Kondisi & Keselamatan Berkendara",
+        "metaDescription": "Apa yang diharapkan dari jalan Nusa Penida menuju Broken Beach, dan tips keselamatan untuk pengemudi dan pengendara sepeda motor.",
+        "title": "Jalan dan keselamatan berkendara",
+        "lead": "Jalan Nusa Penida jauh lebih kasar daripada Bali daratan. Perjalanan ke Broken Beach melintasi medan tidak rata dan berbukit, jadi rencanakan bagian lambat daripada kecepatan tinggi.",
+        "blocks": [
+          {"heading": "Seperti apa jalannya", "paragraphs": ["Harapkan lubang, kerikil lepas, turunan curam, dan jalan sempit di beberapa tempat. Setelah hujan, bagian dapat berlumpur atau licin, dan debu sore umum di cuaca kering."]},
+          {"heading": "Tips keselamatan", "paragraphs": ["Berkendaralah perlahan, jaga jarak aman, dan hindari sepeda motor sama sekali saat hujan lebat atau di ruas kasar tak dikenal. Supir lokal yang tahu kondisi adalah keuntungan nyata."]}
+        ],
+        "faqs": [
+          ["Apakah jalan ke Broken Beach beraspal?", "Sebagian beraspal namun kasar, dengan lubang, kerikil, dan turunan curam di tempat. Harapkan perjalanan lambat dan berguncang."],
+          ["Apakah aman naik sepeda motor?", "Hanya untuk pengendara yakin dalam kondisi baik. Hindari sepeda motor saat hujan atau di ruas kasar tak dikenal."],
+          ["Berapa lama perjalanan sebenarnya?", "Anggap estimasi kasar; kondisi, bukan jarak, yang menentukan waktu. Tambahkan waktu tambahan untuk keterlambatan."]
+        ],
+        "related": ["car-vs-scooter", "navigation-parking", "from-toyapakeh"]
+      }
+    },
+    {
+      "slug": "navigation-parking",
+      "group": "transport",
+      "en": {
+        "documentTitle": "Navigation, Offline Maps & Parking at Broken Beach",
+        "metaDescription": "How to navigate to Broken Beach on Nusa Penida, why offline maps help, and what to know about the parking area.",
+        "title": "Finding Broken Beach and parking",
+        "lead": "Mobile coverage on Nusa Penida can drop, so navigation works best with an offline map saved before you sail. The map pin is a location reference, not a verified entrance.",
+        "blocks": [
+          {"heading": "Use offline maps", "paragraphs": ["Download an offline map of Nusa Penida and mark Broken Beach, Angel's Billabong and your harbour before leaving Bali. Signal gaps are common inland."]},
+          {"heading": "The pin is a reference", "paragraphs": ["The map pin sits in Sakti and gives a location for orientation. It is not a confirmed usable entrance or parking lot, so follow local signs and staff once you arrive."]},
+          {"heading": "Parking", "paragraphs": ["A parking area is often mentioned near the west-coast stops, but its exact location, capacity and fee were not verified. Confirm with staff and never assume the pin marks the lot."], "bullets": ["Save offline maps before the boat.", "Share your driver's local knowledge rather than relying only on GPS.", "Ask staff about parking location and any charge."]}
+        ],
+        "faqs": [
+          ["Do I need offline maps?", "It helps a lot. Coverage drops on the island, so save an offline map of Nusa Penida before you sail."],
+          ["Does the map pin show the entrance?", "No. The pin is a location reference in Sakti, not a confirmed entrance or parking lot. Follow local signs on arrival."],
+          ["Where do I park?", "A parking area is often mentioned but was not verified. Ask staff about location and any fee on the day."]
+        ],
+        "related": ["road-conditions", "entry-fees-parking", "onsite-facilities"]
+      },
+      "id": {
+        "documentTitle": "Navigasi, Peta Offline & Parkir di Broken Beach",
+        "metaDescription": "Cara menavigasi ke Broken Beach di Nusa Penida, mengapa peta offline membantu, dan apa yang perlu diketahui tentang area parkir.",
+        "title": "Menemukan Broken Beach dan parkir",
+        "lead": "Jangkauan seluler di Nusa Penida bisa hilang, jadi navigasi paling baik dengan peta offline yang disimpan sebelum berlayar. Pin peta adalah referensi lokasi, bukan pintu masuk terverifikasi.",
+        "blocks": [
+          {"heading": "Gunakan peta offline", "paragraphs": ["Unduh peta offline Nusa Penida dan tandai Broken Beach, Angel's Billabong, dan pelabuhan Anda sebelum meninggalkan Bali. Kesenjangan sinyal umum di pedalaman."]},
+          {"heading": "Pin adalah referensi", "paragraphs": ["Pin peta berada di Sakti dan memberi lokasi untuk orientasi. Ini bukan pintu masuk atau lahan parkir yang dikonfirmasi, jadi ikuti tanda dan petugas lokal saat tiba."]}
+        ],
+        "faqs": [
+          ["Apakah saya perlu peta offline?", "Sangat membantu. Jangkauan hilang di pulau, jadi simpan peta offline Nusa Penida sebelum berlayar."],
+          ["Apakah pin peta menunjukkan pintu masuk?", "Tidak. Pin adalah referensi lokasi di Sakti, bukan pintu masuk atau lahan parkir yang dikonfirmasi. Ikuti tanda lokal saat tiba."],
+          ["Di mana saya parkir?", "Area parkir sering disebutkan namun tidak diverifikasi. Tanyakan petugas tentang lokasi dan biaya pada hari kunjungan."]
+        ],
+        "related": ["road-conditions", "entry-fees-parking", "onsite-facilities"]
+      }
+    },
+    {
+      "slug": "angels-billabong",
+      "group": "nearby",
+      "en": {
+        "documentTitle": "Angel's Billabong, Nusa Penida: Pool, Access & Safety",
+        "metaDescription": "What Angel's Billabong is, how it differs from Broken Beach, and the safety rules for the natural coastal pool nearby.",
+        "title": "Angel's Billabong next to Broken Beach",
+        "lead": "Angel's Billabong is a separate coastal-pool formation a few minutes from Broken Beach by road. It is a different place with its own access and water rules.",
+        "blocks": [
+          {"heading": "What it is", "paragraphs": ["Angel's Billabong is a natural rock pool fed by the sea, sitting on the same western headland as Broken Beach. Unlike the arch viewpoint, the pool is a water feature where people sometimes stand at the edge."]},
+          {"heading": "How it differs from Broken Beach", "paragraphs": ["Broken Beach is a cliff-top viewpoint over a cove; Angel's Billabong is a sea pool at a lower level. The two are close but their access and safety rules are not the same."]},
+          {"heading": "Safety rules", "paragraphs": ["The pool is exposed to swell and can be dangerous when waves wash over the rocks. Low tide or a regional model reading does not make entry safe; check local conditions and never go in during rough seas."], "bullets": ["Visit at calmer sea states, never during big swell.", "Keep clear of the open-ocean side of the pool.", "Confirm access and rules on the day."]}
+        ],
+        "faqs": [
+          ["Is Angel's Billabong the same as Broken Beach?", "No. It is a separate sea-pool formation nearby, with its own access and water rules."],
+          ["Can you swim in Angel's Billabong?", "People sometimes stand at the pool edge, but the sea can surge over the rocks. It is unsafe in rough conditions; confirm locally and never enter during big swell."],
+          ["How far is it from Broken Beach?", "A few minutes by road on the same headland; some visitors walk between them if the local route is open."]
+        ],
+        "related": ["broken-beach-name", "swimming-sea-safety", "west-half-day"]
+      },
+      "id": {
+        "documentTitle": "Angel's Billabong, Nusa Penida: Kolam, Akses & Keselamatan",
+        "metaDescription": "Apa itu Angel's Billabong, bagaimana berbeda dari Broken Beach, dan aturan keselamatan untuk kolam pesisir alami terdekat.",
+        "title": "Angel's Billabong di sebelah Broken Beach",
+        "lead": "Angel's Billabong adalah formasi kolam pesisir terpisah beberapa menit dari Broken Beach dengan kendaraan. Ini tempat berbeda dengan akses dan aturan air sendiri.",
+        "blocks": [
+          {"heading": "Apa itu", "paragraphs": ["Angel's Billabong adalah kolam batu alami yang diisi laut, berada di tanjung barat yang sama dengan Broken Beach. Berbeda dengan titik pandang lengkung, kolam adalah fitur air tempat orang terkadang berdiri di tepinya."]},
+          {"heading": "Bagaimana berbeda dari Broken Beach", "paragraphs": ["Broken Beach adalah titik pandang tepi tebing di atas teluk; Angel's Billabong adalah kolam laut di level lebih rendah. Keduanya dekat tetapi akses dan aturan keselamatannya tidak sama."]}
+        ],
+        "faqs": [
+          ["Apakah Angel's Billabong sama dengan Broken Beach?", "Tidak. Ini formasi kolam laut terpisah di dekatnya, dengan akses dan aturan air sendiri."],
+          ["Bolehkah berenang di Angel's Billabong?", "Orang terkadang berdiri di tepi kolam, namun laut dapat menerjang batu. Tidak aman saat kondisi bergelora; konfirmasi setempat dan jangan masuk saat gelombang besar."],
+          ["Berapa jauh dari Broken Beach?", "Beberapa menit dengan kendaraan di tanjung yang sama; beberapa pengunjung berjalan di antara keduanya bila rute lokal terbuka."]
+        ],
+        "related": ["broken-beach-name", "swimming-sea-safety", "west-half-day"]
+      }
+    },
+    {
+      "slug": "kelingking-beach",
+      "group": "nearby",
+      "en": {
+        "documentTitle": "Kelingking Beach, Nusa Penida: Viewpoint, Access & Route",
+        "metaDescription": "What Kelingking Beach is, how it differs from Broken Beach, and how to include it in a Nusa Penida west-coast plan.",
+        "title": "Kelingking Beach on the same island",
+        "lead": "Kelingking Beach is another headline Nusa Penida stop, known for its dramatic cliff shape. It is a separate site from Broken Beach, on a different part of the island.",
+        "blocks": [
+          {"heading": "What Kelingking is", "paragraphs": ["Kelingking Beach is a tall cliff on the island's south-west with a famous steep descent to a small beach. The viewpoint is the main draw; the beach below is a separate, strenuous walk."]},
+          {"heading": "How it differs from Broken Beach", "paragraphs": ["Broken Beach is a gentle cliff-top arch viewpoint; Kelingking adds a steep, exposed stairway down to the sand. Their access, difficulty and risks are not the same."]},
+          {"heading": "Linking with Broken Beach", "paragraphs": ["They are often combined in a west-coast loop, about 30 to 50 minutes apart by road. Plan the tougher Kelingking descent separately and confirm conditions."], "bullets": ["The Kelingking descent is steep and exposed; assess your fitness.", "Allow 30 to 50 minutes of road between the two.", "Combine with Angel's Billabong and Paluang Cliff."]}
+        ],
+        "faqs": [
+          ["Is Kelingking the same as Broken Beach?", "No. Kelingking is a different cliff on the south-west with a steep descent; Broken Beach is a west-coast arch viewpoint."],
+          ["How far is Kelingking from Broken Beach?", "Roughly 30 to 50 minutes by the island's rough roads."],
+          ["Is the Kelingking descent safe?", "The stairway is steep and exposed. Judge your own fitness and check conditions; do not rush the descent."]
+        ],
+        "related": ["from-kelingking", "west-half-day", "paluang-cliff"]
+      },
+      "id": {
+        "documentTitle": "Pantai Kelingking, Nusa Penida: Titik Pandang, Akses & Rute",
+        "metaDescription": "Apa itu Pantai Kelingking, bagaimana berbeda dari Broken Beach, dan cara memasukkannya dalam rencana pesisir barat Nusa Penida.",
+        "title": "Pantai Kelingking di pulau yang sama",
+        "lead": "Pantai Kelingking adalah pemberhentian utama lain Nusa Penida, dikenal dengan bentuk tebing dramatis. Ini situs terpisah dari Broken Beach, di bagian pulau berbeda.",
+        "blocks": [
+          {"heading": "Apa itu Kelingking", "paragraphs": ["Pantai Kelingking adalah tebing tinggi di barat daya pulau dengan turunan curam terkenal ke pantai kecil. Titik pandang adalah daya tarik utama; pantai di bawah adalah jalan terpisah dan melelahkan."]},
+          {"heading": "Bagaimana berbeda dari Broken Beach", "paragraphs": ["Broken Beach adalah titik pandang lengkung tepi tebing yang landai; Kelingking menambah tangga curam dan terbuka ke pasir. Akses, kesulitan, dan risikonya tidak sama."]}
+        ],
+        "faqs": [
+          ["Apakah Kelingking sama dengan Broken Beach?", "Tidak. Kelingking adalah tebing berbeda di barat daya dengan turunan curam; Broken Beach adalah titik pandang lengkung pesisir barat."],
+          ["Berapa jauh Kelingking dari Broken Beach?", "Sekitar 30 sampai 50 menit dengan jalan pulau yang kasar."],
+          ["Apakah turunan Kelingking aman?", "Tangga curam dan terbuka. Nilai kebugaran sendiri dan periksa kondisi; jangan buru-buru turun."]
+        ],
+        "related": ["from-kelingking", "west-half-day", "paluang-cliff"]
+      }
+    },
+    {
+      "slug": "crystal-bay",
+      "group": "nearby",
+      "en": {
+        "documentTitle": "Crystal Bay, Nusa Penida: Swimming, Snorkelling & Route",
+        "metaDescription": "What Crystal Bay offers, how it compares with Broken Beach, and how to include the north-west bay in a west-coast day.",
+        "title": "Crystal Bay: a swimming bay, not a viewpoint",
+        "lead": "Crystal Bay is a sheltered bay on Nusa Penida's north-west coast, known for clearer water and calmer swimming than the cliff sites. It is a different kind of stop from Broken Beach.",
+        "blocks": [
+          {"heading": "What Crystal Bay offers", "paragraphs": ["Crystal Bay is a wide, sheltered bay where visitors often swim and snorkel. A small islet sits at the mouth, and the water is usually calmer than the open cliff coasts."]},
+          {"heading": "How it differs from Broken Beach", "paragraphs": ["Broken Beach is a viewpoint only; Crystal Bay is a water-activity bay. They are on different coasts and roughly 45 to 70 minutes apart by road."]},
+          {"heading": "Linking the two", "paragraphs": ["Because both are on the west side, a common plan views the cliff arches in the morning and ends at Crystal Bay for swimming and sunset. Confirm sea conditions before any water activity."], "bullets": ["Crystal Bay suits swimming; Broken Beach does not.", "Allow 45 to 70 minutes of road between them.", "Confirm sea conditions before entering the water."]}
+        ],
+        "faqs": [
+          ["Can you swim at Crystal Bay?", "It is a more sheltered bay and a common swimming and snorkelling spot, but always confirm the day's sea conditions locally."],
+          ["How far is Crystal Bay from Broken Beach?", "Roughly 45 to 70 minutes by road, because it is on the north-west coast."],
+          ["Should I visit both in one day?", "Yes, they combine well in a west-coast loop: viewpoints in the morning, Crystal Bay for water later."]
+        ],
+        "related": ["from-crystal-bay", "swimming-alternatives", "west-full-day"]
+      },
+      "id": {
+        "documentTitle": "Crystal Bay, Nusa Penida: Berenang, Snorkeling & Rute",
+        "metaDescription": "Apa yang ditawarkan Crystal Bay, bagaimana dibandingkan dengan Broken Beach, dan cara memasukkan teluk barat laut dalam sehari pesisir barat.",
+        "title": "Crystal Bay: teluk berenang, bukan titik pandang",
+        "lead": "Crystal Bay adalah teluk terlindung di pesisir barat laut Nusa Penida, dikenal dengan air lebih jernih dan berenang lebih tenang daripada situs tebing. Ini jenis pemberhentian berbeda dari Broken Beach.",
+        "blocks": [
+          {"heading": "Apa yang ditawarkan Crystal Bay", "paragraphs": ["Crystal Bay adalah teluk lebar terlindung di mana pengunjung sering berenang dan snorkeling. Pulau kecil berada di muara, dan air biasanya lebih tenang daripada pesisir tebing terbuka."]},
+          {"heading": "Bagaimana berbeda dari Broken Beach", "paragraphs": ["Broken Beach hanya titik pandang; Crystal Bay adalah teluk aktivitas air. Keduanya di pesisir berbeda dan sekitar 45 sampai 70 menit terpisah dengan kendaraan."]}
+        ],
+        "faqs": [
+          ["Bolehkah berenang di Crystal Bay?", "Ini teluk lebih terlindung dan tempat berenang serta snorkeling umum, namun selalu konfirmasi kondisi laut hari itu setempat."],
+          ["Berapa jauh Crystal Bay dari Broken Beach?", "Sekitar 45 sampai 70 menit dengan kendaraan, karena berada di pesisir barat laut."],
+          ["Haruskah mengunjungi keduanya dalam satu hari?", "Ya, keduanya menggabung baik dalam loop pesisir barat: titik pandang di pagi, Crystal Bay untuk air di kemudian hari."]
+        ],
+        "related": ["from-crystal-bay", "swimming-alternatives", "west-full-day"]
+      }
+    },
+    {
+      "slug": "paluang-cliff",
+      "group": "nearby",
+      "en": {
+        "documentTitle": "Paluang Cliff, Nusa Penida: Viewpoint & Route",
+        "metaDescription": "What Paluang Cliff is near Broken Beach, how to reach it, and how it fits a west-coast viewpoint circuit.",
+        "title": "Paluang Cliff on the west coast",
+        "lead": "Paluang Cliff is a quieter west-coast viewpoint a short drive from Broken Beach and Angel's Billabong, popular for wide cliff and sea panoramas.",
+        "blocks": [
+          {"heading": "What Paluang Cliff is", "paragraphs": ["Paluang Cliff is an open clifftop lookout on Nusa Penida's west coast. Like Broken Beach, it is a view-only stop with no verified safe descent to the water."]},
+          {"heading": "How to reach it", "paragraphs": ["It sits roughly 10 to 20 minutes by road from Broken Beach, depending on conditions, making it an easy add-on to the same west-coast loop."]},
+          {"heading": "Safety and pairing", "paragraphs": ["As with any cliff edge here, stay behind barriers and keep distance from the lip in rough seas. It pairs naturally with Broken Beach and Angel's Billabong."], "bullets": ["View-only; do not descend to the water.", "About 10 to 20 minutes by road from Broken Beach.", "Add it to a west-coast loop with Angel's Billabong."]}
+        ],
+        "faqs": [
+          ["What is Paluang Cliff?", "A west-coast clifftop viewpoint on Nusa Penida, similar in style to Broken Beach but quieter."],
+          ["How far is it from Broken Beach?", "Roughly 10 to 20 minutes by road, depending on conditions."],
+          ["Can you swim there?", "No verified safe descent; treat it as a view-only stop and keep away from the cliff edge."]
+        ],
+        "related": ["west-coast-viewpoints", "angels-billabong", "west-half-day"]
+      },
+      "id": {
+        "documentTitle": "Paluang Cliff, Nusa Penida: Titik Pandang & Rute",
+        "metaDescription": "Apa itu Paluang Cliff dekat Broken Beach, cara mencapainya, dan bagaimana masuk sirkuit titik pandang pesisir barat.",
+        "title": "Paluang Cliff di pesisir barat",
+        "lead": "Paluang Cliff adalah titik pandang pesisir barat yang lebih tenang beberapa menit dari Broken Beach dan Angel's Billabong, populer untuk panorama tebing dan laut yang luas.",
+        "blocks": [
+          {"heading": "Apa itu Paluang Cliff", "paragraphs": ["Paluang Cliff adalah tempat pandang tepi tebing terbuka di pesisir barat Nusa Penida. Seperti Broken Beach, ini pemberhentian hanya pandang tanpa turunan aman ke air yang terverifikasi."]},
+          {"heading": "Cara mencapainya", "paragraphs": ["Berada sekitar 10 sampai 20 menit dengan kendaraan dari Broken Beach, tergantung kondisi, menjadikannya tambahan mudah ke loop pesisir barat yang sama."]}
+        ],
+        "faqs": [
+          ["Apa itu Paluang Cliff?", "Titik pandang tepi tebing pesisir barat Nusa Penida, mirip gaya dengan Broken Beach namun lebih tenang."],
+          ["Berapa jauh dari Broken Beach?", "Sekitar 10 sampai 20 menit dengan kendaraan, tergantung kondisi."],
+          ["Bolehkah berenang di sana?", "Tidak ada turunan aman yang terverifikasi; anggap sebagai pemberhentian hanya pandang dan jauhi tepi tebing."]
+        ],
+        "related": ["west-coast-viewpoints", "angels-billabong", "west-half-day"]
+      }
+    },
+    {
+      "slug": "tembeling",
+      "group": "nearby",
+      "en": {
+        "documentTitle": "Tembeling, Nusa Penida: Forest, Pool & Beach",
+        "metaDescription": "What Tembeling offers on Nusa Penida, how it differs from Broken Beach, and how to plan the longer trip south-east.",
+        "title": "Tembeling: forest, spring and beach",
+        "lead": "Tembeling is a green, forested corner of Nusa Penida with a natural pool, spring and a quiet beach. It is a different kind of visit from the west-coast cliff viewpoints.",
+        "blocks": [
+          {"heading": "What Tembeling is", "paragraphs": ["Tembeling combines tropical forest, a freshwater natural pool and a quiet beach on the island's south-east. It is a calmer, greener contrast to the open cliff coasts."]},
+          {"heading": "How it differs from Broken Beach", "paragraphs": ["Broken Beach is a short cliff-top arch stop; Tembeling needs more walking through forest and a longer drive, roughly 60 to 90 minutes from the west coast."]},
+          {"heading": "Planning the trip", "paragraphs": ["Because it is far from the west coast, Tembeling suits a separate day or the east side of a two-day plan rather than a quick add-on to Broken Beach."], "bullets": ["Expect a long rough drive from the west coast.", "Wear good footwear for forest paths.", "Treat swimming spots as unverified; confirm locally."]}
+        ],
+        "faqs": [
+          ["What is Tembeling?", "A forested area with a natural freshwater pool and a quiet beach on Nusa Penida's south-east."],
+          ["How far is Tembeling from Broken Beach?", "Roughly 60 to 90 minutes by road, because it is on the opposite side of the island."],
+          ["Can I add Tembeling to a Broken Beach day?", "It is far; better as a separate day or part of an east-side plan rather than a quick west-coast add-on."]
+        ],
+        "related": ["two-day-west-east", "swimming-alternatives", "west-coast-viewpoints"]
+      },
+      "id": {
+        "documentTitle": "Tembeling, Nusa Penida: Hutan, Kolam & Pantai",
+        "metaDescription": "Apa yang ditawarkan Tembeling di Nusa Penida, bagaimana berbeda dari Broken Beach, dan cara merencanakan perjalanan lebih jauh ke tenggara.",
+        "title": "Tembeling: hutan, mata air, dan pantai",
+        "lead": "Tembeling adalah sudut hijau berhutan Nusa Penida dengan kolam alami, mata air, dan pantai tenang. Ini jenis kunjungan berbeda dari titik pandang tebing pesisir barat.",
+        "blocks": [
+          {"heading": "Apa itu Tembeling", "paragraphs": ["Tembeling menggabungkan hutan tropis, kolam air tawar alami, dan pantai tenang di tenggara pulau. Ini kontras lebih tenang dan hijau dibanding pesisir tebing terbuka."]},
+          {"heading": "Bagaimana berbeda dari Broken Beach", "paragraphs": ["Broken Beach adalah pemberhentian lengkung tepi tebing singkat; Tembeling butuh lebih banyak berjalan melalui hutan dan perjalanan lebih jauh, sekitar 60 sampai 90 menit dari pesisir barat."]}
+        ],
+        "faqs": [
+          ["Apa itu Tembeling?", "Area berhutan dengan kolam air tawar alami dan pantai tenang di tenggara Nusa Penida."],
+          ["Berapa jauh Tembeling dari Broken Beach?", "Sekitar 60 sampai 90 menit dengan kendaraan, karena berada di sisi berlawanan pulau."],
+          ["Bolehkah menambah Tembeling ke hari Broken Beach?", "Ini jauh; lebih baik sebagai hari terpisah atau bagian rencana sisi timur daripada tambahan cepat pesisir barat."]
+        ],
+        "related": ["two-day-west-east", "swimming-alternatives", "west-coast-viewpoints"]
+      }
+    },
+    {
+      "slug": "west-coast-viewpoints",
+      "group": "nearby",
+      "en": {
+        "documentTitle": "Nusa Penida West Coast Viewpoints Compared",
+        "metaDescription": "How Broken Beach, Angel's Billabong, Paluang Cliff and Crystal Bay compare, and how to order them in a west-coast day.",
+        "title": "Comparing the west-coast stops",
+        "lead": "The west coast packs several very different stops close together. Knowing what each offers helps you order the day and avoid backtracking on rough roads.",
+        "blocks": [
+          {"heading": "The four headline stops", "paragraphs": ["Broken Beach is a cliff-top arch viewpoint. Angel's Billabong is a sea pool nearby. Paluang Cliff is a quiet clifftop panorama. Crystal Bay, farther north-west, is a swimming and snorkelling bay."]},
+          {"heading": "How they differ", "paragraphs": ["Three are view-only cliff or pool stops with no verified safe water entry; Crystal Bay is the main swimming option. Distances are short between the first three but longer to Crystal Bay."]},
+          {"heading": "A sensible order", "paragraphs": ["A common order is Broken Beach and Angel's Billabong first, then Paluang Cliff, then Crystal Bay later for swimming and sunset. Confirm sea conditions before any water activity."], "bullets": ["Broken Beach + Angel's Billabong: same headland.", "Paluang Cliff: 10 to 20 minutes further.", "Crystal Bay: 45 to 70 minutes, best for water."]}
+        ],
+        "faqs": [
+          ["Which west-coast stop is best for photos?", "Broken Beach for the arch and Paluang Cliff for wide panoramas; Angel's Billabong for the pool edge."],
+          ["Which one can I swim at?", "Crystal Bay is the main swimming option; the cliff and pool stops are view-only or unsafe in rough seas."],
+          ["What order avoids backtracking?", "Broken Beach, Angel's Billabong, Paluang Cliff, then Crystal Bay last for water and sunset."]
+        ],
+        "related": ["broken-beach-name", "angels-billabong", "crystal-bay"]
+      },
+      "id": {
+        "documentTitle": "Perbandingan Titik Pandang Pesisir Barat Nusa Penida",
+        "metaDescription": "Bagaimana Broken Beach, Angel's Billabong, Paluang Cliff, dan Crystal Bay dibandingkan, dan cara mengurutkannya dalam sehari pesisir barat.",
+        "title": "Membandingkan pemberhentian pesisir barat",
+        "lead": "Pesisir barat memuat beberapa pemberhentian sangat berbeda berdekatan. Mengetahui apa yang ditawarkan masing-masing membantu mengurutkan hari dan menghindari putar balik di jalan kasar.",
+        "blocks": [
+          {"heading": "Empat pemberhentian utama", "paragraphs": ["Broken Beach adalah titik pandang lengkung tepi tebing. Angel's Billabong adalah kolam laut di dekatnya. Paluang Cliff adalah panorama tepi tebing tenang. Crystal Bay, lebih jauh ke barat laut, adalah teluk berenang dan snorkeling."]},
+          {"heading": "Bagaimana berbeda", "paragraphs": ["Tiga di antaranya adalah pemberhentian tebing atau kolam hanya pandang tanpa masuk air aman yang terverifikasi; Crystal Bay adalah opsi berenang utama. Jarak pendek antara tiga pertama tetapi lebih jauh ke Crystal Bay."]}
+        ],
+        "faqs": [
+          ["Pemberhentian pesisir barat mana terbaik untuk foto?", "Broken Beach untuk lengkung dan Paluang Cliff untuk panorama luas; Angel's Billabong untuk tepi kolam."],
+          ["Yang mana bisa saya berenang?", "Crystal Bay adalah opsi berenang utama; pemberhentian tebing dan kolam hanya pandang atau tidak aman saat laut bergelora."],
+          ["Urutan apa yang menghindari putar balik?", "Broken Beach, Angel's Billabong, Paluang Cliff, lalu Crystal Bay terakhir untuk air dan matahari terbenam."]
+        ],
+        "related": ["broken-beach-name", "angels-billabong", "crystal-bay"]
+      }
+    },
+    {
+      "slug": "swimming-alternatives",
+      "group": "nearby",
+      "en": {
+        "documentTitle": "Where to Swim Near Broken Beach, Nusa Penida",
+        "metaDescription": "Safe swimming options near the west-coast viewpoints, why Broken Beach itself is not a swimming spot, and how to confirm conditions.",
+        "title": "Swimming alternatives to Broken Beach",
+        "lead": "Broken Beach is a viewpoint, not a swimming beach, and Angel's Billabong's pool is unsafe in rough seas. For actual swimming, look to genuinely swimmable bays and confirm conditions locally.",
+        "blocks": [
+          {"heading": "Why not the cliff sites", "paragraphs": ["Broken Beach has no verified safe descent to the water, and Angel's Billabong is a sea pool exposed to swell. Treat both as view-only in anything but calm conditions."]},
+          {"heading": "Where swimming is realistic", "paragraphs": ["Crystal Bay, on the north-west coast, is the common sheltered swimming and snorkelling spot in this area. Always confirm the day's sea conditions with locals before entering."]},
+          {"heading": "Confirm before you go", "paragraphs": ["Sea state changes fast. Ask about currents, waves and any local warnings, and never treat a regional model reading as a green light for water entry."], "bullets": ["Crystal Bay is the main local swimming option.", "Ask locals about conditions each day.", "Keep children and weak swimmers close."]}
+        ],
+        "faqs": [
+          ["Can I swim at Broken Beach?", "No verified safe access. Treat it as a viewpoint and choose a genuinely swimmable bay instead."],
+          ["Where can I swim near the west coast?", "Crystal Bay is the common sheltered option. Confirm sea conditions locally before entering."],
+          ["Is Angel's Billabong safe for swimming?", "Only in calm seas, and even then the pool is exposed to surge. Confirm locally and avoid rough conditions."]
+        ],
+        "related": ["swimming-sea-safety", "crystal-bay", "angels-billabong"]
+      },
+      "id": {
+        "documentTitle": "Di Mana Berenang Dekat Broken Beach, Nusa Penida",
+        "metaDescription": "Opsi berenang aman dekat titik pandang pesisir barat, mengapa Broken Beach sendiri bukan pantai berenang, dan cara mengonfirmasi kondisi.",
+        "title": "Alternatif berenang selain Broken Beach",
+        "lead": "Broken Beach adalah titik pandang, bukan pantai berenang, dan kolam Angel's Billabong tidak aman saat laut bergelora. Untuk berenang sungguhan, carilah teluk yang benar-benar dapat dikenang dan konfirmasi kondisi setempat.",
+        "blocks": [
+          {"heading": "Mengapa bukan situs tebing", "paragraphs": ["Broken Beach tidak memiliki turunan aman ke air yang terverifikasi, dan Angel's Billabong adalah kolam laut terbuka terhadap gelombang. Anggap keduanya hanya pandang kecuali kondisi tenang."]},
+          {"heading": "Di mana berenang realistis", "paragraphs": ["Crystal Bay, di pesisir barat laut, adalah tempat berenang dan snorkeling terlindung umum di area ini. Selalu konfirmasi kondisi laut hari itu dengan penduduk setempat sebelum masuk."]}
+        ],
+        "faqs": [
+          ["Bolehkah berenang di Broken Beach?", "Tidak ada akses aman yang terverifikasi. Anggap sebagai titik pandang dan pilih teluk yang benar-benar dapat dikenang."],
+          ["Di mana saya bisa berenang dekat pesisir barat?", "Crystal Bay adalah opsi terlindung umum. Konfirmasi kondisi laut setempat sebelum masuk."],
+          ["Apakah Angel's Billabong aman untuk berenang?", "Hanya saat laut tenang, dan meski begitu kolam terbuka terhadap surut. Konfirmasi setempat dan hindari kondisi bergelora."]
+        ],
+        "related": ["swimming-sea-safety", "crystal-bay", "angels-billabong"]
+      }
+    },
+    {
+      "slug": "food-nearby-broken-beach",
+      "group": "food",
+      "en": {
+        "documentTitle": "Food & Drinks Near Broken Beach, Nusa Penida",
+        "metaDescription": "What to expect for food and drinks near Broken Beach, how to prepare, and why outlets are not guaranteed at the cliff stops.",
+        "title": "Eating near Broken Beach",
+        "lead": "Food at the west-coast cliff stops is basic and not guaranteed. Small warung or drinks stalls sometimes operate near the parking and viewpoint areas, but outlets and menus were not verified.",
+        "blocks": [
+          {"heading": "What may be available", "paragraphs": ["You may find small stalls selling drinks, snacks or simple meals near the popular west-coast stops. Their presence, hours and menus shift with season and visitor numbers."]},
+          {"heading": "How to prepare", "paragraphs": ["Carry your own water and any essentials you need, subject to venue rules. Bring cash, since small stalls may not take cards, and do not rely on a confirmed meal at the cliff."]},
+          {"heading": "Where to plan a real meal", "paragraphs": ["For a proper lunch, pair the west-coast loop with a stop at a warung on the way back toward the harbour or near Kelingking, where more outlets tend to cluster."], "bullets": ["Carry water for the heat.", "Bring cash for small stalls.", "Confirm any outlet is open before relying on it."]}
+        ],
+        "faqs": [
+          ["Are there restaurants at Broken Beach?", "Not verified. Small stalls sometimes operate near the stops, but do not rely on a confirmed meal there."],
+          ["Can I buy water there?", "Possibly from small stalls, but carry your own to be safe and bring cash."],
+          ["Where should I plan lunch?", "Near the harbour on the return, or around Kelingking, where more warung tend to cluster."]
+        ],
+        "related": ["warung-west-coast", "lunch-kelingking-route", "onsite-facilities"]
+      },
+      "id": {
+        "documentTitle": "Makan & Minum Dekat Broken Beach, Nusa Penida",
+        "metaDescription": "Apa yang diharapkan untuk makanan dan minuman dekat Broken Beach, cara bersiap, dan mengapa outlet tidak dijamin di pemberhentian tebing.",
+        "title": "Makan dekat Broken Beach",
+        "lead": "Makanan di pemberhentian tebing pesisir barat bersifat dasar dan tidak dijamin. Warung kecil atau gerai minuman terkadang beroperasi di dekat area parkir dan titik pandang, namun outlet dan menu tidak diverifikasi.",
+        "blocks": [
+          {"heading": "Apa yang mungkin tersedia", "paragraphs": ["Anda mungkin menemukan warung kecil yang menjual minuman, camilan, atau makanan sederhana di dekat pemberhentian pesisir barat populer. Kehadiran, jam, dan menu mereka bergeser dengan musim dan jumlah pengunjung."]},
+          {"heading": "Cara bersiap", "paragraphs": ["Bawa air dan kebutuhan esensial sendiri, sesuai aturan lokasi. Bawa uang tunai, karena warung kecil mungkin tidak menerima kartu, dan jangan mengandalkan makanan pasti di tebing."]}
+        ],
+        "faqs": [
+          ["Apakah ada restoran di Broken Beach?", "Tidak diverifikasi. Warung kecil terkadang beroperasi di dekat pemberhentian, namun jangan mengandalkan makanan pasti di sana."],
+          ["Bolehkah membeli air di sana?", "Mungkin dari warung kecil, namun bawa sendiri untuk aman dan bawa uang tunai."],
+          ["Di mana saya harus merencanakan makan siang?", "Dekat pelabuhan saat kembali, atau sekitar Kelingking, di mana lebih banyak warung cenderung berkumpul."]
+        ],
+        "related": ["warung-west-coast", "lunch-kelingking-route", "onsite-facilities"]
+      }
+    },
+    {
+      "slug": "food-angels-billabong",
+      "group": "food",
+      "en": {
+        "documentTitle": "Food, Coffee & Cold Drinks Near Angel's Billabong",
+        "metaDescription": "What to expect for coffee, snacks and cold drinks near Angel's Billabong and Broken Beach, and how to prepare for the west-coast stops.",
+        "title": "Coffee and cold drinks near Angel's Billabong",
+        "lead": "Angel's Billabong and Broken Beach share the same headland, so the same basic food notes apply: small stalls may appear near the parking and viewpoint, but nothing is guaranteed.",
+        "blocks": [
+          {"heading": "What you may find", "paragraphs": ["Near the west-coast stops, small warung sometimes sell coffee, cold drinks and simple snacks. Their hours and stock shift with the season and visitor flow."]},
+          {"heading": "How to prepare", "paragraphs": ["Carry water and any food you need, and bring cash. Do not plan a sit-down meal at the cliff; save that for a warung closer to the harbour or Kelingking."]},
+          {"heading": "Pair with a real stop", "paragraphs": ["If you want coffee or a proper break, combine the loop with a warung stop on the return leg toward Toyapakeh or near Kelingking."], "bullets": ["Bring cash for small stalls.", "Carry water; the coast is hot and exposed.", "Do not rely on outlets being open."]}
+        ],
+        "faqs": [
+          ["Is there coffee near Angel's Billabong?", "Small stalls sometimes sell coffee and cold drinks, but hours and stock are not guaranteed."],
+          ["Can I get cold drinks there?", "Possibly from small stalls; carry your own water to be safe."],
+          ["Where should I plan a proper break?", "Near the harbour on the return, or around Kelingking, where more warung cluster."]
+        ],
+        "related": ["angels-billabong", "food-nearby-broken-beach", "warung-west-coast"]
+      },
+      "id": {
+        "documentTitle": "Makanan, Kopi & Minuman Dingin Dekat Angel's Billabong",
+        "metaDescription": "Apa yang diharapkan untuk kopi, camilan, dan minuman dingin dekat Angel's Billabong dan Broken Beach, serta cara bersiap untuk pemberhentian pesisir barat.",
+        "title": "Kopi dan minuman dingin dekat Angel's Billabong",
+        "lead": "Angel's Billabong dan Broken Beach berbagi tanjung yang sama, sehingga catatan makanan dasar sama: warung kecil mungkin muncul di dekat parkir dan titik pandang, namun tidak ada yang dijamin.",
+        "blocks": [
+          {"heading": "Apa yang mungkin Anda temukan", "paragraphs": ["Di dekat pemberhentian pesisir barat, warung kecil terkadang menjual kopi, minuman dingin, dan camilan sederhana. Jam dan stok mereka bergeser dengan musim dan aliran pengunjung."]},
+          {"heading": "Cara bersiap", "paragraphs": ["Bawa air dan makanan yang Anda butuhkan, dan bawa uang tunai. Jangan rencanakan makan duduk di tebing; simpan itu untuk warung lebih dekat ke pelabuhan atau Kelingking."]}
+        ],
+        "faqs": [
+          ["Apakah ada kopi dekat Angel's Billabong?", "Warung kecil terkadang menjual kopi dan minuman dingin, namun jam dan stok tidak dijamin."],
+          ["Bolehkah mendapatkan minuman dingin di sana?", "Mungkin dari warung kecil; bawa air sendiri untuk aman."],
+          ["Di mana saya harus merencanakan istirahat layak?", "Dekat pelabuhan saat kembali, atau sekitar Kelingking, di mana lebih banyak warung berkumpul."]
+        ],
+        "related": ["angels-billabong", "food-nearby-broken-beach", "warung-west-coast"]
+      }
+    },
+    {
+      "slug": "lunch-kelingking-route",
+      "group": "food",
+      "en": {
+        "documentTitle": "Lunch on the Broken Beach to Kelingking Route",
+        "metaDescription": "Where to plan lunch when linking Broken Beach and Kelingking Beach, and what food options cluster along the west-coast road.",
+        "title": "Lunch between Broken Beach and Kelingking",
+        "lead": "Linking Broken Beach with Kelingking Beach makes a natural west-coast day, and lunch fits best at a warung near Kelingking or on the return toward the harbour.",
+        "blocks": [
+          {"heading": "Where outlets cluster", "paragraphs": ["More food outlets tend to gather around the Kelingking area and along the road back toward Toyapakeh than at the quiet cliff stops themselves."]},
+          {"heading": "Timing the meal", "paragraphs": ["A practical order is Broken Beach and Angel's Billabong in the morning, then Kelingking, with lunch at a warung nearby before the drive back."]},
+          {"heading": "What to expect", "paragraphs": ["Expect simple Indonesian warung meals rather than international restaurants. Confirm opening and bring cash, since cards are not guaranteed at small places."], "bullets": ["Eat near Kelingking or on the return leg.", "Expect simple local meals.", "Carry cash and confirm opening hours."]}
+        ],
+        "faqs": [
+          ["Where should I eat between Broken Beach and Kelingking?", "Around Kelingking or on the road back toward Toyapakeh, where more warung cluster."],
+          ["Are there restaurants at the cliff stops?", "Not verified; the cliff stops are view-only with at most small stalls. Plan a real meal elsewhere."],
+          ["What kind of food is available?", "Simple Indonesian warung meals; bring cash and confirm hours."]
+        ],
+        "related": ["from-kelingking", "warung-west-coast", "west-half-day"]
+      },
+      "id": {
+        "documentTitle": "Makan Siang di Rute Broken Beach ke Kelingking",
+        "metaDescription": "Di mana merencanakan makan siang saat menghubungkan Broken Beach dan Pantai Kelingking, dan opsi makanan apa yang berkumpul di jalan pesisir barat.",
+        "title": "Makan siang antara Broken Beach dan Kelingking",
+        "lead": "Menghubungkan Broken Beach dengan Pantai Kelingking membuat hari pesisir barat yang alami, dan makan siang paling cocok di warung dekat Kelingking atau saat kembali ke pelabuhan.",
+        "blocks": [
+          {"heading": "Di mana outlet berkumpul", "paragraphs": ["Lebih banyak outlet makanan cenderung berkumpul di sekitar area Kelingking dan di sepanjang jalan kembali ke Toyapakeh daripada di pemberhentian tebing tenang itu sendiri."]},
+          {"heading": "Penjadwalan makan", "paragraphs": ["Urutan praktis adalah Broken Beach dan Angel's Billabong di pagi hari, lalu Kelingking, dengan makan siang di warung terdekat sebelum perjalanan kembali."]}
+        ],
+        "faqs": [
+          ["Di mana saya harus makan antara Broken Beach dan Kelingking?", "Di sekitar Kelingking atau di jalan kembali ke Toyapakeh, di mana lebih banyak warung berkumpul."],
+          ["Apakah ada restoran di pemberhentian tebing?", "Tidak diverifikasi; pemberhentian tebing hanya pandang dengan paling banyak warung kecil. Rencanakan makan sungguhan di tempat lain."],
+          ["Jenis makanan apa yang tersedia?", "Makanan warung Indonesia sederhana; bawa uang tunai dan konfirmasi jam buka."]
+        ],
+        "related": ["from-kelingking", "warung-west-coast", "west-half-day"]
+      }
+    },
+    {
+      "slug": "warung-west-coast",
+      "group": "food",
+      "en": {
+        "documentTitle": "West Coast Nusa Penida Warung & Local Food",
+        "metaDescription": "A practical guide to finding warung and local food on the Nusa Penida west coast, with preparation tips because outlets are not guaranteed.",
+        "title": "Finding warung on the west coast",
+        "lead": "The Nusa Penida west coast is scenic but light on dining. Knowing where outlets tend to cluster and how to prepare keeps the day smooth.",
+        "blocks": [
+          {"heading": "Where food tends to be", "paragraphs": ["More warung and small eateries cluster around Kelingking and along the road back toward Toyapakeh than at the quiet cliff stops like Broken Beach and Paluang Cliff."]},
+          {"heading": "What to expect", "paragraphs": ["Expect simple warung meals, drinks and snacks rather than a wide restaurant choice. Menus and hours shift with season and visitor numbers."]},
+          {"heading": "Preparation tips", "paragraphs": ["Carry water and any essentials, bring cash, and confirm whether a place is open before relying on it. Pair the cliff viewpoints with a meal stop on the return leg."], "bullets": ["Eat near Kelingking or the harbour road.", "Bring cash; cards are not guaranteed.", "Carry water for the hot, exposed coast."]}
+        ],
+        "faqs": [
+          ["Are there many restaurants on the west coast?", "Not many. Simple warung cluster near Kelingking and the harbour road rather than at the cliff stops."],
+          ["What food is typical?", "Simple Indonesian warung meals, drinks and snacks; choices are limited."],
+          ["How should I prepare?", "Carry water and essentials, bring cash, and confirm outlets are open before relying on them."]
+        ],
+        "related": ["food-nearby-broken-beach", "lunch-kelingking-route", "dietary-needs"]
+      },
+      "id": {
+        "documentTitle": "Warung & Makanan Lokal Pesisir Barat Nusa Penida",
+        "metaDescription": "Panduan praktis menemukan warung dan makanan lokal di pesisir barat Nusa Penida, dengan tips persiapan karena outlet tidak dijamin.",
+        "title": "Menemukan warung di pesisir barat",
+        "lead": "Pesisir barat Nusa Penida indah tetapi minim tempat makan. Mengetahui di mana outlet cenderung berkumpul dan cara bersiap menjaga hari tetap lancar.",
+        "blocks": [
+          {"heading": "Di mana makanan cenderung ada", "paragraphs": ["Lebih banyak warung dan kedai kecil berkumpul di sekitar Kelingking dan di sepanjang jalan kembali ke Toyapakeh daripada di pemberhentian tebing tenang seperti Broken Beach dan Paluang Cliff."]},
+          {"heading": "Apa yang diharapkan", "paragraphs": ["Harapkan makanan warung sederhana, minuman, dan camilan daripada pilihan restoran luas. Menu dan jam bergeser dengan musim dan jumlah pengunjung."]}
+        ],
+        "faqs": [
+          ["Apakah banyak restoran di pesisir barat?", "Tidak banyak. Warung sederhana berkumpul di sekitar Kelingking dan jalan pelabuhan daripada di pemberhentian tebing."],
+          ["Makanan apa yang khas?", "Makanan warung Indonesia sederhana, minuman, dan camilan; pilihan terbatas."],
+          ["Bagaimana saya harus bersiap?", "Bawa air dan kebutuhan esensial, bawa uang tunai, dan konfirmasi outlet terbuka sebelum mengandalkannya."]
+        ],
+        "related": ["food-nearby-broken-beach", "lunch-kelingking-route", "dietary-needs"]
+      }
+    },
+    {
+      "slug": "dietary-needs",
+      "group": "food",
+      "en": {
+        "documentTitle": "Dietary Needs on Nusa Penida: Halal, Vegetarian & More",
+        "metaDescription": "Practical notes for halal, vegetarian, vegan and other dietary needs when eating around Broken Beach and the west coast.",
+        "title": "Dietary needs on the west coast",
+        "lead": "Most food outlets on Nusa Penida are small local warung, so specific dietary needs are easier to manage with a little preparation than with a long menu of alternatives.",
+        "blocks": [
+          {"heading": "Halal food", "paragraphs": ["Indonesia is majority Muslim, and most warung serve halal meals by default. Confirm if you are unsure, especially near mixed or tourist spots."]},
+          {"heading": "Vegetarian and vegan", "paragraphs": ["Simple vegetable, tofu and tempeh dishes are common, but always confirm they are cooked without meat stock or animal additions at small stalls."]},
+          {"heading": "Limited choice at the cliffs", "paragraphs": ["At the quiet cliff stops, options may be only drinks and snacks. Plan a proper meal near Kelingking or the harbour road where more warung cluster."], "bullets": ["Ask how a dish is prepared at small warung.", "Carry snacks if your needs are strict.", "Eat at larger warung near Kelingking or the harbour."]}
+        ],
+        "faqs": [
+          ["Is food on Nusa Penida halal?", "Most local warung serve halal meals by default; confirm if unsure."],
+          ["Can vegetarians eat easily?", "Tofu, tempeh and vegetable dishes are common, but confirm preparation at small stalls."],
+          ["What if my needs are strict?", "Carry snacks and plan meals at larger warung near Kelingking or the harbour road."]
+        ],
+        "related": ["warung-west-coast", "lunch-kelingking-route", "food-nearby-broken-beach"]
+      },
+      "id": {
+        "documentTitle": "Kebutuhan Diet di Nusa Penida: Halal, Vegetarian & Lainnya",
+        "metaDescription": "Catatan praktis untuk kebutuhan halal, vegetarian, vegan, dan diet lain saat makan di sekitar Broken Beach dan pesisir barat.",
+        "title": "Kebutuhan diet di pesisir barat",
+        "lead": "Sebagian besar outlet makanan di Nusa Penida adalah warung lokal kecil, jadi kebutuhan diet tertentu lebih mudah dikelola dengan persiapan daripada menu alternatif yang panjang.",
+        "blocks": [
+          {"heading": "Makanan halal", "paragraphs": ["Indonesia mayoritas Muslim, dan sebagian besar warung menyajikan makanan halal secara default. Konfirmasi bila tidak yakin, terutama di dekat tempat campuran atau wisata."]},
+          {"heading": "Vegetarian dan vegan", "paragraphs": ["Hidangan sayur, tahu, dan tempe sederhana umum, namun selalu konfirmasi tidak dimasak dengan kaldu daging atau tambahan hewani di warung kecil."]}
+        ],
+        "faqs": [
+          ["Apakah makanan di Nusa Penida halal?", "Sebagian besar warung lokal menyajikan makanan halal secara default; konfirmasi bila tidak yakin."],
+          ["Apakah vegetarian mudah makan?", "Tahu, tempe, dan sayur umum, namun konfirmasi cara memasak di warung kecil."],
+          ["Bagaimana jika kebutuhan saya ketat?", "Bawa camilan dan rencanakan makan di warung lebih besar di sekitar Kelingking atau jalan pelabuhan."]
+        ],
+        "related": ["warung-west-coast", "lunch-kelingking-route", "food-nearby-broken-beach"]
+      }
+    },
+    {
+      "slug": "west-half-day",
+      "group": "itinerary",
+      "en": {
+        "documentTitle": "Nusa Penida West Coast Half-Day Itinerary",
+        "metaDescription": "A practical half-day plan linking Broken Beach, Angel's Billabong, Paluang Cliff and Crystal Bay, with timing and road notes.",
+        "title": "West coast in a half day",
+        "lead": "If you arrive on a morning boat, a half day is enough to cover the main west-coast stops: Broken Beach, Angel's Billabong, Paluang Cliff and Crystal Bay.",
+        "blocks": [
+          {"heading": "A sample order", "paragraphs": ["Land at Toyapakeh, then go straight to Broken Beach and Angel's Billabong on the same headland, continue to Paluang Cliff, and finish at Crystal Bay for swimming and sunset."]},
+          {"heading": "Timing", "paragraphs": ["Allow about 45 to 60 minutes at Broken Beach, similar at Angel's Billabong, a shorter stop at Paluang Cliff, and the rest of the afternoon at Crystal Bay. Add rough-road buffer."]},
+          {"heading": "Make it smooth", "paragraphs": ["Book a full-day driver so the loop is continuous, carry water and cash, and confirm sea conditions before any water activity at Crystal Bay."], "bullets": ["Land at Toyapakeh for the shortest transfer.", "Use one driver for the whole loop.", "Finish at Crystal Bay for swimming and sunset."]}
+        ],
+        "faqs": [
+          ["Can I see the west coast in half a day?", "Yes, a morning arrival and a focused loop can cover Broken Beach, Angel's Billabong, Paluang Cliff and Crystal Bay."],
+          ["What order works best?", "Broken Beach and Angel's Billabong first, then Paluang Cliff, then Crystal Bay last for water and sunset."],
+          ["Do I need a driver?", "A full-day driver makes the rough-road loop continuous and far easier than multiple scooter trips."]
+        ],
+        "related": ["from-toyapakeh", "west-full-day", "angels-billabong"]
+      },
+      "id": {
+        "documentTitle": "Rencana Perjalanan Setengah Hari Pesisir Barat Nusa Penida",
+        "metaDescription": "Rencana praktis menghubungkan Broken Beach, Angel's Billabong, Paluang Cliff, dan Crystal Bay, dengan penjadwalan dan catatan jalan.",
+        "title": "Pesisir barat dalam setengah hari",
+        "lead": "Jika Anda tiba dengan boat pagi, setengah hari cukup untuk menutupi pemberhentian pesisir barat utama: Broken Beach, Angel's Billabong, Paluang Cliff, dan Crystal Bay.",
+        "blocks": [
+          {"heading": "Urutan contoh", "paragraphs": ["Tiba di Toyapakeh, lalu langsung ke Broken Beach dan Angel's Billabong di tanjung yang sama, lanjut ke Paluang Cliff, dan akhiri di Crystal Bay untuk berenang dan matahari terbenam."]},
+          {"heading": "Penjadwalan", "paragraphs": ["Siapkan sekitar 45 sampai 60 menit di Broken Beach, serupa di Angel's Billabong, pemberhentian lebih singkat di Paluang Cliff, dan sisa sore di Crystal Bay. Tambahkan waktu tambahan jalan kasar."]}
+        ],
+        "faqs": [
+          ["Bolehkah melihat pesisir barat dalam setengah hari?", "Ya, tiba pagi dan loop terfokus dapat menutupi Broken Beach, Angel's Billabong, Paluang Cliff, dan Crystal Bay."],
+          ["Urutan apa yang paling baik?", "Broken Beach dan Angel's Billabong dulu, lalu Paluang Cliff, lalu Crystal Bay terakhir untuk air dan matahari terbenam."],
+          ["Apakah saya perlu supir?", "Supir sehari penuh membuat loop jalan kasar berkesinambungan dan jauh lebih mudah daripada beberapa trip sepeda motor."]
+        ],
+        "related": ["from-toyapakeh", "west-full-day", "angels-billabong"]
+      }
+    },
+    {
+      "slug": "west-full-day",
+      "group": "itinerary",
+      "en": {
+        "documentTitle": "Nusa Penida West Coast Full-Day Itinerary",
+        "metaDescription": "A relaxed full-day west-coast plan with Broken Beach, Angel's Billabong, Paluang Cliff, Kelingking and Crystal Bay, plus food and timing.",
+        "title": "West coast full day plan",
+        "lead": "A full day lets you add Kelingking Beach to the core west-coast loop without rushing, with time for a proper lunch and swimming at Crystal Bay.",
+        "blocks": [
+          {"heading": "A relaxed order", "paragraphs": ["Start at Broken Beach and Angel's Billabong, add Paluang Cliff, break for lunch near Kelingking, view Kelingking, then end at Crystal Bay for swimming and sunset."]},
+          {"heading": "Why a full day", "paragraphs": ["The island's rough roads make the loop slower than the map suggests. A full day absorbs delays and gives each stop real time instead of a photo dash."]},
+          {"heading": "Food and buffer", "paragraphs": ["Plan lunch at a warung near Kelingking or on the return road, carry water and cash, and confirm sea conditions before swimming at Crystal Bay."], "bullets": ["Add Kelingking to the half-day loop.", "Lunch near Kelingking or the harbour road.", "Finish at Crystal Bay for water and sunset."]}
+        ],
+        "faqs": [
+          ["What does a full west-coast day include?", "Broken Beach, Angel's Billabong, Paluang Cliff, Kelingking Beach and Crystal Bay, with lunch and buffer time."],
+          ["Is a full day better than a half day?", "Yes if you want Kelingking without rushing; rough roads make a full day calmer."],
+          ["Where do I eat on this route?", "Near Kelingking or on the road back toward the harbour, where more warung cluster."]
+        ],
+        "related": ["west-half-day", "kelingking-beach", "crystal-bay"]
+      },
+      "id": {
+        "documentTitle": "Rencana Perjalanan Sehari Penuh Pesisir Barat Nusa Penida",
+        "metaDescription": "Rencana santai sehari penuh pesisir barat dengan Broken Beach, Angel's Billabong, Paluang Cliff, Kelingking, dan Crystal Bay, plus makan dan penjadwalan.",
+        "title": "Rencana sehari penuh pesisir barat",
+        "lead": "Sehari penuh memungkinkan Anda menambah Pantai Kelingking ke loop inti pesisir barat tanpa terburu-buru, dengan waktu untuk makan siang layak dan berenang di Crystal Bay.",
+        "blocks": [
+          {"heading": "Urutan santai", "paragraphs": ["Mulai di Broken Beach dan Angel's Billabong, tambahkan Paluang Cliff, istirahat makan siang dekat Kelingking, lihat Kelingking, lalu akhiri di Crystal Bay untuk berenang dan matahari terbenam."]},
+          {"heading": "Mengapa sehari penuh", "paragraphs": ["Jalan pulau yang kasar membuat loop lebih lambat daripada yang disarankan peta. Sehari penuh menyerap keterlambatan dan memberi setiap pemberhentian waktu nyata."]}
+        ],
+        "faqs": [
+          ["Apa yang termasuk hari pesisir barat penuh?", "Broken Beach, Angel's Billabong, Paluang Cliff, Pantai Kelingking, dan Crystal Bay, dengan makan siang dan waktu tambahan."],
+          ["Apakah sehari penuh lebih baik daripada setengah hari?", "Ya bila Anda ingin Kelingking tanpa terburu-buru; jalan kasar membuat sehari penuh lebih tenang."],
+          ["Di mana saya makan di rute ini?", "Dekat Kelingking atau di jalan kembali ke pelabuhan, di mana lebih banyak warung berkumpul."]
+        ],
+        "related": ["west-half-day", "kelingking-beach", "crystal-bay"]
+      }
+    },
+    {
+      "slug": "bali-day-trip",
+      "group": "itinerary",
+      "en": {
+        "documentTitle": "Bali to Broken Beach Day Trip: Is It Possible?",
+        "metaDescription": "Whether a same-day trip from Bali to Broken Beach is realistic, with boat, road and buffer-time planning.",
+        "title": "A Bali day trip to Broken Beach?",
+        "lead": "A same-day round trip from Bali to Broken Beach is possible but tight. It works best as a focused west-coast loop rather than trying to see the whole island.",
+        "blocks": [
+          {"heading": "The time budget", "paragraphs": ["You need a fast-boat crossing each way, roughly 30 to 45 minutes on the water, plus a 20 to 40 minute island road from Toyapakeh and the time at each stop. Early boats matter."]},
+          {"heading": "Keep it focused", "paragraphs": ["For a day trip, concentrate on the west coast: Broken Beach, Angel's Billabong, Paluang Cliff and maybe Crystal Bay. Skip the far east and south to protect your return boat."]},
+          {"heading": "Reduce risk", "paragraphs": ["Book the boat and a full-day driver together, confirm the last return sailing, and build buffer for swell and rough roads."], "bullets": ["Take the earliest boat you can.", "Pre-book boat plus island driver.", "Confirm the last return sailing before setting out."]}
+        ],
+        "faqs": [
+          ["Can I visit Broken Beach from Bali in one day?", "Yes, but it is tight. Focus on the west coast and take early boats both ways."],
+          ["How early should I leave Bali?", "As early as possible; the crossing plus island road eats most of a morning before you reach the cliff."],
+          ["Should I pre-book everything?", "Yes. Book the boat and a full-day driver together and confirm your last return sailing."]
+        ],
+        "related": ["from-sanur", "west-half-day", "from-toyapakeh"]
+      },
+      "id": {
+        "documentTitle": "Trip Sehari Bali ke Broken Beach: Apakah Mungkin?",
+        "metaDescription": "Apakah perjalanan pulang-pergi di hari yang sama dari Bali ke Broken Beach realistis, dengan perencanaan boat, jalan, dan waktu tambahan.",
+        "title": "Trip sehari Bali ke Broken Beach?",
+        "lead": "Perjalanan pulang-pergi di hari yang sama dari Bali ke Broken Beach mungkin tetapi mepet. Ini paling baik sebagai loop pesisir barat terfokus daripada mencoba melihat seluruh pulau.",
+        "blocks": [
+          {"heading": "Anggaran waktu", "paragraphs": ["Anda butuh penyeberangan boat cepat setiap arah, sekitar 30 sampai 45 menit di air, plus jalan pulau 20 sampai 40 menit dari Toyapakeh dan waktu di setiap pemberhentian. Boat pagi penting."]},
+          {"heading": "Tetap terfokus", "paragraphs": ["Untuk trip sehari, konsentrasi pada pesisir barat: Broken Beach, Angel's Billabong, Paluang Cliff, dan mungkin Crystal Bay. Lewati timur dan selatan jauh untuk menjaga boat kembali Anda."]}
+        ],
+        "faqs": [
+          ["Bolehkah mengunjungi Broken Beach dari Bali dalam satu hari?", "Ya, tetapi mepet. Fokus pada pesisir barat dan naik boat pagi ke dua arah."],
+          ["Seberapa pagi saya harus berangkat dari Bali?", "Sespagi mungkin; penyeberangan plus jalan pulau menghabiskan sebagian besar pagi sebelum Anda mencapai tebing."],
+          ["Haruskah saya pesan semuanya sebelumnya?", "Ya. Pesan boat dan supir sehari penuh bersama dan konfirmasi sailing kembali terakhir Anda."]
+        ],
+        "related": ["from-sanur", "west-half-day", "from-toyapakeh"]
+      }
+    },
+    {
+      "slug": "two-day-west-east",
+      "group": "itinerary",
+      "en": {
+        "documentTitle": "Nusa Penida 2-Day Plan: West & East Split",
+        "metaDescription": "How to split Nusa Penida into a west-coast day and an east/south day, with Broken Beach in the west and where the east fits.",
+        "title": "Two days: west then east",
+        "lead": "Two days lets you properly cover both sides of Nusa Penida without rushing the rough roads. Put Broken Beach and the west coast on day one, and the east and south on day two.",
+        "blocks": [
+          {"heading": "Day one, west coast", "paragraphs": ["Cover Broken Beach, Angel's Billabong, Paluang Cliff, Kelingking and Crystal Bay at a relaxed pace, ending with swimming and sunset at Crystal Bay."]},
+          {"heading": "Day two, east and south", "paragraphs": ["Use the second day for the island's east and south highlights, which are far from the west coast and would otherwise force a long backtrack."]},
+          {"heading": "Why split", "paragraphs": ["Nusa Penida's rough roads make crossing the island slow. Splitting by region saves time and avoids repeating the same long transfers."], "bullets": ["Day one: west coast with Broken Beach.", "Day two: east and south highlights.", "Stay overnight on the island to avoid tight boat timing."]}
+        ],
+        "faqs": [
+          ["Should I split Nusa Penida into two days?", "Yes. The rough roads make a two-day, region-by-region plan far calmer than one rushed day."],
+          ["Which day has Broken Beach?", "Day one, with the rest of the west coast."],
+          ["Do I need to stay overnight?", "Staying on the island helps you avoid tight boat timing and long transfers."]
+        ],
+        "related": ["west-full-day", "tembeling", "from-sanur"]
+      },
+      "id": {
+        "documentTitle": "Rencana 2 Hari Nusa Penida: Barat & Timur Terpisah",
+        "metaDescription": "Cara membagi Nusa Penida menjadi hari pesisir barat dan hari timur/selatan, dengan Broken Beach di barat dan ke mana timur masuk.",
+        "title": "Dua hari: barat lalu timur",
+        "lead": "Dua hari memungkinkan Anda menutupi kedua sisi Nusa Penida tanpa terburu-buru di jalan kasar. Taruh Broken Beach dan pesisir barat di hari pertama, dan timur serta selatan di hari kedua.",
+        "blocks": [
+          {"heading": "Hari pertama, pesisir barat", "paragraphs": ["Tutupi Broken Beach, Angel's Billabong, Paluang Cliff, Kelingking, dan Crystal Bay dengan kecepatan santai, diakhiri berenang dan matahari terbenam di Crystal Bay."]},
+          {"heading": "Hari kedua, timur dan selatan", "paragraphs": ["Gunakan hari kedua untuk sorotan timur dan selatan pulau, yang jauh dari pesisir barat dan jika tidak akan memaksa putar balik panjang."]}
+        ],
+        "faqs": [
+          ["Haruskah saya membagi Nusa Penida menjadi dua hari?", "Ya. Jalan kasar membuat rencana dua hari per-region jauh lebih tenang daripada satu hari terburu-buru."],
+          ["Hari mana yang ada Broken Beach?", "Hari pertama, dengan sisa pesisir barat."],
+          ["Apakah saya perlu menginap?", "Menginap di pulau membantu menghindari penjadwalan boat mepet dan transfer panjang."]
+        ],
+        "related": ["west-full-day", "tembeling", "from-sanur"]
+      }
+    },
+    {
+      "slug": "with-children",
+      "group": "itinerary",
+      "en": {
+        "documentTitle": "Visiting Broken Beach with Children",
+        "metaDescription": "Practical tips for families at Broken Beach: cliff safety, shade, facilities, and an easy west-coast plan with kids.",
+        "title": "Broken Beach with children",
+        "lead": "Families can enjoy Broken Beach, but the unguarded cliff edge and rough access mean close supervision and a simple plan matter more than a long list of stops.",
+        "blocks": [
+          {"heading": "Safety first", "paragraphs": ["The cliff edge is unguarded and the sea can be large. Keep children within arm's reach at the viewing rim, never let them near the lip, and turn back if the sea is rough."]},
+          {"heading": "Comfort and facilities", "paragraphs": ["Shade and toilets are limited and not guaranteed, so bring water, hats, sunscreen and snacks. Confirm facility location with staff rather than assuming."]},
+          {"heading": "An easy plan", "paragraphs": ["Keep the day short: Broken Beach and Angel's Billabong on the same headland, then a warung lunch, rather than a long multi-stop loop with tired kids."], "bullets": ["Keep children away from the cliff edge at all times.", "Carry water, hats and sunscreen.", "Choose a short, two-stop plan over a long loop."]}
+        ],
+        "faqs": [
+          ["Is Broken Beach suitable for kids?", "Yes with close supervision; the cliff edge is unguarded, so keep children within arm's reach."],
+          ["Are there toilets and shade?", "Limited and not guaranteed; bring water, hats, sunscreen and snacks."],
+          ["What is an easy plan with children?", "Broken Beach and Angel's Billabong together, then a warung lunch, rather than a long loop."]
+        ],
+        "related": ["cliff-weather-safety", "accessibility-guide", "west-half-day"]
+      },
+      "id": {
+        "documentTitle": "Mengunjungi Broken Beach dengan Anak",
+        "metaDescription": "Tips praktis bagi keluarga di Broken Beach: keamanan tebing, naungan, fasilitas, dan rencana pesisir barat mudah bersama anak.",
+        "title": "Broken Beach dengan anak",
+        "lead": "Keluarga dapat menikmati Broken Beach, namun tepi tebing tak terlindung dan akses kasar berarti pengawasan ketat dan rencana sederhana lebih penting daripada daftar pemberhentian panjang.",
+        "blocks": [
+          {"heading": "Keselamatan utama", "paragraphs": ["Tepi tebing tak terlindung dan laut bisa besar. Jaga anak dalam jangkauan di bibir pandang, jangan biarkan mereka dekat tepi, dan kembali jika laut bergelora."]},
+          {"heading": "Kenyamanan dan fasilitas", "paragraphs": ["Naungan dan toilet terbatas serta tidak dijamin, jadi bawa air, topi, tabir surya, dan camilan. Konfirmasi lokasi fasilitas dengan petugas daripada menganggap."]}
+        ],
+        "faqs": [
+          ["Apakah Broken Beach cocok untuk anak?", "Ya dengan pengawasan ketat; tepi tebing tak terlindung, jadi jaga anak dalam jangkauan."],
+          ["Apakah ada toilet dan naungan?", "Terbatas dan tidak dijamin; bawa air, topi, tabir surya, dan camilan."],
+          ["Apa rencana mudah bersama anak?", "Broken Beach dan Angel's Billabong bersama, lalu makan siang warung, daripada loop panjang."]
+        ],
+        "related": ["cliff-weather-safety", "accessibility-guide", "west-half-day"]
+      }
+    },
+    {
+      "slug": "rainy-day-alternatives",
+      "group": "itinerary",
+      "en": {
+        "documentTitle": "Broken Beach in Bad Weather: Alternatives & Safety",
+        "metaDescription": "What to do at Broken Beach when it rains or the sea is rough, and safer alternatives to plan instead.",
+        "title": "When the weather turns bad",
+        "lead": "Heavy rain or rough seas make the cliff edge at Broken Beach riskier and the roads slower. Know when to skip the viewpoint and what to do instead.",
+        "blocks": [
+          {"heading": "When to skip the cliff", "paragraphs": ["If storms, high swell or poor visibility arrive, leave the cliff area. The model data on this site is regional, not a safety guarantee, and should never replace local judgement."]},
+          {"heading": "Road reality", "paragraphs": ["Rain turns Nusa Penida's rough roads muddy and slippery, slowing every transfer. Build extra buffer and avoid scooters in heavy weather."]},
+          {"heading": "Safer alternatives", "paragraphs": ["If the west coast is unsafe, consider a calmer day or shift focus to a sheltered bay like Crystal Bay once seas settle, and always confirm conditions locally."], "bullets": ["Leave the cliff in storms or high swell.", "Slow down and avoid scooters on wet roads.", "Wait for calmer seas before any water activity."]}
+        ],
+        "faqs": [
+          ["Should I visit Broken Beach in rain?", "Only in light, safe conditions. In storms or high swell, leave the cliff area and avoid scooters on wet roads."],
+          ["Is the road dangerous when wet?", "Rough roads become muddy and slippery; slow down and add buffer time."],
+          ["What can I do instead?", "Wait for calmer seas, then consider a sheltered bay like Crystal Bay, and always confirm locally."]
+        ],
+        "related": ["cliff-weather-safety", "road-conditions", "swimming-alternatives"]
+      },
+      "id": {
+        "documentTitle": "Broken Beach Saat Cuaca Buruk: Alternatif & Keselamatan",
+        "metaDescription": "Apa yang dilakukan di Broken Beach saat hujan atau laut bergelora, dan alternatif lebih aman untuk direncanakan.",
+        "title": "Saat cuaca berubah buruk",
+        "lead": "Hujan lebat atau laut bergelora membuat tepi tebing Broken Beach lebih berisiko dan jalan lebih lambat. Ketahui kapan melewatkan titik pandang dan apa yang dilakukan sebagai gantinya.",
+        "blocks": [
+          {"heading": "Kapan melewatkan tebing", "paragraphs": ["Jika badai, gelombang tinggi, atau visibilitas buruk tiba, tinggalkan area tebing. Data model di situs ini bersifat regional, bukan jaminan keselamatan, dan tidak boleh menggantikan penilaian setempat."]},
+          {"heading": "Realita jalan", "paragraphs": ["Hujan mengubah jalan kasar Nusa Penida menjadi berlumpur dan licin, memperlambat setiap transfer. Tambahkan waktu tambahan dan hindari sepeda motor saat cuaca buruk."]}
+        ],
+        "faqs": [
+          ["Haruskah saya mengunjungi Broken Beach saat hujan?", "Hanya dalam kondisi ringan dan aman. Saat badai atau gelombang tinggi, tinggalkan area tebing dan hindari sepeda motor di jalan basah."],
+          ["Apakah jalan berbahaya saat basah?", "Jalan kasar menjadi berlumpur dan licin; perlambat dan tambahkan waktu tambahan."],
+          ["Apa yang bisa saya lakukan sebagai gantinya?", "Tunggu laut lebih tenang, lalu pertimbangkan teluk terlindung seperti Crystal Bay, dan selalu konfirmasi setempat."]
+        ],
+        "related": ["cliff-weather-safety", "road-conditions", "swimming-alternatives"]
+      }
+    }
+  ]
+}

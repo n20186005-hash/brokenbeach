@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 import worker from '../worker.mjs';
 let assetCalls=0;const env={ASSETS:{fetch:async()=>{assetCalls++;return new Response('missing',{status:404});}}};
 for(const u of ['http://brokenbeach.org/privacy-policy/?q=1','https://www.brokenbeach.org/privacy-policy/?q=1']){const r=await worker.fetch(new Request(u),env);assert.equal(r.status,301);assert.equal(r.headers.get('location'),'https://brokenbeach.org/privacy-policy/?q=1');}
-let r=await worker.fetch(new Request('https://brokenbeach.org/cookie-settings?q=1'),env);assert.equal(r.headers.get('location'),'https://brokenbeach.org/cookie-settings/?q=1');r=await worker.fetch(new Request('https://brokenbeach.org/missing'),env);assert.equal(r.status,404);assert.equal(await r.text(),'missing');assert.match(r.headers.get('X-Robots-Tag'),/noindex/);assert.equal(assetCalls,1);
+let r=await worker.fetch(new Request('https://brokenbeach.org/cookie-settings?q=1'),env);assert.equal(r.headers.get('location'),'https://brokenbeach.org/cookie-settings/?q=1');r=await worker.fetch(new Request('https://brokenbeach.org/missing/'),env);assert.equal(r.status,404);assert.equal(await r.text(),'missing');assert.match(r.headers.get('X-Robots-Tag'),/noindex/);assert.equal(assetCalls,1);
 await import('./consent-test.mjs');
 let upstreamCalls=0,cacheWrites=0;
 globalThis.caches={default:{match:async()=>undefined,put:async()=>{cacheWrites++}}};
